@@ -1,4 +1,4 @@
-name = "pollocraft"
+name = "pollocraft lite"
 author = "yungando"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,11 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a66e1962e50c7fdbb6a4ab5bd049123ed92ceaf3d616b9f4abcf80d83f08e239"
+hash = "386ce7d61e17e488160d26eb5aa806696cf5d5a360a4aa3b6c4783176e561e4b"
 
 [versions]
-fabric = "0.14.6"
 minecraft = "1.18.2"
-
-[options]
-acceptable-game-versions = ["21w37a", "1.18", "1.18.1", "1.18.2"]
+quilt = "0.17.0"
