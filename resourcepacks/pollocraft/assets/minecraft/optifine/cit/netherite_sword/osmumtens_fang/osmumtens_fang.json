@@ -1,0 +1,36 @@
+{
+    "parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "./osmumtens_fang"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 60],
+			"translation": [0, 10.75, 5.25],
+			"scale": [1.7, 1.7, 0.85]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -90, -60],
+			"translation": [0, 10.75, 5.25],
+			"scale": [1.7, 1.7, 0.85]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 90, 60],
+			"translation": [1, 7, 2],
+			"scale": [1, 1, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -90, -60],
+			"translation": [1, 7, 2],
+			"scale": [1, 1, 0.5]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.75, 0.75, 0.375]
+		},
+		"fixed": {
+			"rotation": [0, 0, 90],
+			"scale": [1, 1, 0.5]
+		}
+	}
+}

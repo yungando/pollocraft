@@ -1,0 +1,47 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "base": {
+    "item": "minecraft:turtle_helmet"
+  },
+  "result": {
+    "components": {
+      "minecraft:attribute_modifiers": {
+        "modifiers": [
+          {
+            "type": "minecraft:generic.armor",
+            "id": "1744493378611",
+            "amount": 3,
+            "operation": "add_value",
+            "slot": "head"
+          },
+          {
+            "type": "minecraft:generic.armor_toughness",
+            "id": "1744493378611",
+            "amount": 3,
+            "operation": "add_value",
+            "slot": "head"
+          },
+          {
+            "type": "minecraft:generic.knockback_resistance",
+            "id": "1744493378611",
+            "amount": 0.1,
+            "operation": "add_value",
+            "slot": "head"
+          }
+        ]
+      },
+      "minecraft:item_name": "\"Netherite Shell\"",
+      "minecraft:custom_model_data": 404,
+      "minecraft:max_damage": 407,
+      "minecraft:rarity": "epic"
+    },
+    "count": 1,
+    "id": "minecraft:turtle_helmet"
+  },
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
+  }
+}

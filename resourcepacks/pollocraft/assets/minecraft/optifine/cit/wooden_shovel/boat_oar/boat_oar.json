@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "minecraft:entity/boat/oak"
+		"0": "minecraft:entity/boat/oak.png"
 	},
 	"elements": [
 		{

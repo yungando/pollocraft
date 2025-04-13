@@ -1,8 +1,8 @@
 {
 	"texture_size": [128, 64],
 	"textures": {
-		"0": "minecraft:entity/turtle/big_sea_turtle",
-		"particle": "minecraft:entity/turtle/big_sea_turtle"
+		"0": "minecraft:entity/turtle/big_sea_turtle.png",
+		"particle": "minecraft:entity/turtle/big_sea_turtle.png"
 	},
 	"elements": [
 		{

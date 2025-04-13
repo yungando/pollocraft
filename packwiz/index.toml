@@ -46,7 +46,7 @@ hash = "9439f8254146932503037a2e0f82cdbc48a1e9a796ce900e98ee3068b8ec3de6"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "ec4e461be362e53f9e364240f82b9b735d9058d35dbed738fa0129a839383831"
+hash = "98abb88f58047417e8bb24ab0f9eda431e858f22fbc1930d172dccc64a699e61"
 
 [[files]]
 file = "config/yosbr/config/lightoverlay.properties"
@@ -98,7 +98,7 @@ hash = "24800cdeaaa2017eda0d53bc0f68774771e3fba38f8acfbf25714ee60cc9fb25"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "7dee9715581fd8613dc3050f96f9a6466a5a10afe7a6eeb6659c8a28c8c3342e"
+hash = "0eb46c50eb3a951afa149fd270145c7accdd73f4ce0010377bbcff78026db4b2"
 preserve = true
 
 [[files]]
@@ -201,6 +201,11 @@ hash = "b42f1dc7a2d11031a7b296055ac7e32637be00e7d52cd37254a8b500a5afcb7b"
 metafile = true
 
 [[files]]
+file = "mods/draggable-lists.pw.toml"
+hash = "aa58e80b2e7736180e29833193fc0370fb50912fd21a08d476a1898c1f7672f6"
+metafile = true
+
+[[files]]
 file = "mods/e4mc.pw.toml"
 hash = "62637529311965e494748924f953c5c41c5f829dc221f5b5fe20120b8994e807"
 metafile = true
@@ -237,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "7b1b0c2e7765ab3df198db3034a09bd513f6366fad7c8003208e26280bbb441a"
+hash = "802ab624a6d267e16a21fbd79b4be1c45bef9c6d04807051b5d5165cced0afc5"
 metafile = true
 
 [[files]]
@@ -268,16 +273,6 @@ metafile = true
 [[files]]
 file = "mods/fixbookgui.pw.toml"
 hash = "9cee1bfaed623dbebb433e5f9341aff6381e3e400f4caab5ff41ad43c9b1cdfd"
-metafile = true
-
-[[files]]
-file = "mods/fog-looks-good-now-fabric.pw.toml"
-hash = "c9460aa90d6daf7a125729230db0cf3eb9fb5479b3d7ac5c754dc3f9bfd896e6"
-metafile = true
-
-[[files]]
-file = "mods/foggy-border.pw.toml"
-hash = "ee01b28a51e3d1594f5d2d8ebeb0969135cc806336f76cad357aac9603efcffa"
 metafile = true
 
 [[files]]
@@ -342,6 +337,11 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "1f64a0fd8804d7b38014217269964ef7ff41c146b2d4660614390bf4703d0b72"
+metafile = true
+
+[[files]]
+file = "mods/mark-it.pw.toml"
+hash = "a034be8acfc8322f3665019d07db2ecf32d992ff8b6c1d3bb9b15725225050d8"
 metafile = true
 
 [[files]]
@@ -491,11 +491,11 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
-hash = "ce9655d5ec3bb2f991911a11c761a1e9077a45fa652bcda1d43ff8ed2d057d7e"
+hash = "f51314a917b6a0dcfa043e90cdd8e821bc109dc470fcbab3f3a5a7f1ba7065f0"
 
 [[files]]
 file = "resourcepacks/andos-pack.zip"
-hash = "236b52b287c4f2819cc56cb397b368e8e9bc3b83254f1e62d60d68b76f21fe21"
+hash = "04415bedbeea460c2120d08e187ee885a382f2200ed9605d3b601487c4a90240"
 
 [[files]]
 file = "resourcepacks/pollocraft-panoramas.zip"
@@ -503,13 +503,13 @@ hash = "51bddf22cf17865650d8a5f564c9591be43ff3f6ff567d17f56b2b741dd11bb6"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
-hash = "f296baf65ccf955be0bf1e8fa09514a1d88c50b142d2cca719186461ce80ca23"
+hash = "9333ac9ee6a5a5110499464ba7ab92b91e046291586354f16ca41ecb9b9e4136"
 
 [[files]]
-file = "shaderpacks/ComplementaryReimagined_r5.1.1 + EuphoriaPatches_1.2.txt"
-hash = "c890cbde0782ddd656676b42adc6db0188afbaf9d0068a3e0bdb0d2ed8f84833"
+file = "shaderpacks/ComplementaryReimagined_r5.2.1 + EuphoriaPatches_1.3.1.txt"
+hash = "9470f2a811624b515580a710f5182b54ed2a33ffe8d3affb3665f302ad145bfb"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
+hash = "f1ce0778845c0a21e9ec09f582e16d4395d6a226e3eae95dfe8421c7a9ff4d83"
 metafile = true
