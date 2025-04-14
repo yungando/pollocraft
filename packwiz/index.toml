@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "7a488f0a685a3c77e90bb8ab013ffa9d92cc7a895925d8f8629d355ab6b8c07c"
+hash = "60e6720aafdfa3304b086f7465917179485a3b2463230505728bd24d54113de3"
 metafile = true
 
 [[files]]
@@ -450,7 +450,7 @@ metafile = true
 
 [[files]]
 file = "mods/random-block-placement.pw.toml"
-hash = "04bcbe69e3d7a898781fb71afaa3868c6032f00bcb82c7dfeac2c810ec572cb5"
+hash = "e085ffbe8af6ae31706ac1011b780abd03daf2716c09e784463dc6660a393bf5"
 metafile = true
 
 [[files]]
