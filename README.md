@@ -9,18 +9,18 @@ A continuation of ando's recommended _vanilla_ mods from previous Minecraft seas
 A couple of important notes:
 * The modpack includes the custom resource pack
 * Both the modpack and resource pack are self-updating once installed
-* To enable auto-updates, the MultiMC Launcher is now ***required***
+* To enable auto-updates, the Prism Launcher (or MultiMC) is now ***required***
 
 And if this sounds like too much work:
-* The custom resource pack will work with any normal installation of Optifine
+* The custom resource pack should work with any normal installation of Optifine
 * The server is compatible with Vanilla Minecraft, so no mods are required to play at all
 
   > You'll just miss out on the fancy resource pack >:(
 
 ### Installation
 
-1 - Download and run the [MultiMC Launcher](https://multimc.org).
+1 - Download and run the [Prism Launcher](https://prismlauncher.org).
 
-2 - Download [pollocraft.zip](https://github.com/yungando/pollocraft/raw/lite/MultiMC/pollocraft-lite.zip) and drag it into the MultiMC window.
+2 - Click `Add Instance` > `Import` and then paste in the following URL: `https://github.com/yungando/pollocraft/raw/1.21.x/MultiMC/pollocraft.zip`.
 
-3 - MultiMC will check for updates whenever you launch the "pollocraft" instance.
+3 - Prism will check for updates whenever you launch the "pollocraft" instance.
