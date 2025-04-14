@@ -565,19 +565,19 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
-hash = "b32a00ffc2b8a9c9dffc2ba7ec677645a28579ff18c5fedc12738ed2163f9a4d"
+hash = "f2229ff001583d3df271f77cb6867bb87b0a7b6968a8a6a71cc608e671db0ba8"
 
 [[files]]
 file = "resourcepacks/andos-pack.zip"
-hash = "6ff722c804ccad1ccc15a61dfe8adeb85c02b44899113da0b77888ac0be2c9b4"
+hash = "f30f12ada75db36d57c64792c8d2723b399499d7c8ed390065f6b533936548a0"
 
 [[files]]
 file = "resourcepacks/pollocraft-panoramas.zip"
-hash = "51bddf22cf17865650d8a5f564c9591be43ff3f6ff567d17f56b2b741dd11bb6"
+hash = "52effe83d6aee008e84a6903fb8934246923e622778ccd09c7cc8248e946f564"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
-hash = "9333ac9ee6a5a5110499464ba7ab92b91e046291586354f16ca41ecb9b9e4136"
+hash = "cb6be99e86740eaa629e6f0e190d92b82ad6a58c97783af1e50136fff3ea7884"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.2.1 + EuphoriaPatches_1.3.1.txt"
