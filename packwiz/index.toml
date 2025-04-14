@@ -2,14 +2,10 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "99dad4db591e67b837f3510e3e610f75af08e2b80296196d68d2ddbba6146944"
+hash = "ce6802837e3836cf882628be7d1d8efb84a373800e0b8bd1911178d90ed5093f"
 
 [[files]]
-file = "config/customwindowtitle/icon16.png"
-hash = "68573978ef42411ae648e25b7809eb067b93c9193076d0dca551863676876b40"
-
-[[files]]
-file = "config/customwindowtitle/icon32.png"
+file = "config/customwindowtitle/icon.png"
 hash = "a7e624d73b9a39f7bf08973e98f455ee22fac90f4c05e9738cf9b8bb9b0e34f1"
 
 [[files]]
@@ -204,8 +200,8 @@ hash = "7797b4dcd9c68b4555caf2629b0bff76f234ae04e8b42956e95ce2c65807049e"
 metafile = true
 
 [[files]]
-file = "mods/custom-window-title.toml"
-hash = "4624048463f5510d97bc433bb758ed6fe2ae08870981d871888b112dabd54a46"
+file = "mods/custom-window-title.pw.toml"
+hash = "09d3121e0f62df0f7543ec669a7d2465ccc257f8ece46eaa37c0d8597ec36c15"
 metafile = true
 
 [[files]]
@@ -351,6 +347,16 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
+metafile = true
+
+[[files]]
+file = "mods/kiwi.pw.toml"
+hash = "2cb9f11e70a27fed5aef1aaefba8f5799c49886787f9c92ef76be46ea8d399ea"
+metafile = true
+
+[[files]]
+file = "mods/lava-clear-view.pw.toml"
+hash = "458c3dfcd2ae66010ef0908ca03f0bfa1b6f8c0baa63d872f5c21ac361543b0f"
 metafile = true
 
 [[files]]
