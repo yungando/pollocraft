@@ -1,0 +1,30 @@
+{
+  id: "andosPack",
+  version: 9,
+  capabilities: [
+    "FileFilter",
+    "DirFilter"
+  ],
+  conf: {
+    blocks: {
+      brewingStand3D: true,
+      pinnedTorches: true,
+      darkerIronDoors: true,
+      spruceTrapDoorFix: true,
+    },
+    items: {
+      fireworkRocket3D: true,
+      adjustedLanternHold: true,
+    },
+    entities: {
+      mannequinArmourStand: true,
+    },
+    misc: {
+      reducedEnchantmentGlint: true,
+      connectedCutSandstone: true,
+    },
+    modOverrides: {
+      vanillaXaerosWorldMapGUI: true,
+    }
+  }
+}

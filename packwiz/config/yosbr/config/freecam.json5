@@ -1,1 +1,8 @@
-{"movement":{"flightMode":"CREATIVE"},"visual":{"perspective":"FIRST_PERSON"}}
+{
+  "movement": {
+    "flightMode": "CREATIVE"
+  },
+  "visual": {
+    "perspective": "FIRST_PERSON"
+  }
+}

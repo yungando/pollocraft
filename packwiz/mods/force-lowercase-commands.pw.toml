@@ -1,13 +1,13 @@
 name = "Force Lowercase Commands"
-filename = "ForceLowerCaseCommandsFabric-1.0.0.jar"
+filename = "ForceLowerCaseCommandsFabric-1.1.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/CwxVUnPT/versions/KVK7fcgj/ForceLowerCaseCommandsFabric-1.0.0.jar"
-hash-format = "sha1"
-hash = "9f2a28e7d7027e7009f78739016835b32b007d92"
+url = "https://cdn.modrinth.com/data/CwxVUnPT/versions/cpecBNt8/ForceLowerCaseCommandsFabric-1.1.0.jar"
+hash-format = "sha512"
+hash = "b23a6f39408afcbb3603a6dfd283e3d90387f28b8b6b7956131c27b8e322abeafb0206d10a8aff25df7cd2dddaad840f0f7e52daf492b51b5b57733d8c64fce3"
 
 [update]
 [update.modrinth]
 mod-id = "CwxVUnPT"
-version = "KVK7fcgj"
+version = "cpecBNt8"

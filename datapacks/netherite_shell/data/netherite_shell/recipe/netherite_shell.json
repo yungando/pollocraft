@@ -33,10 +33,10 @@
           }
         ]
       },
-      "minecraft:item_name": "\"Netherite Shell\"",
       "minecraft:custom_model_data": 404,
-      "minecraft:max_damage": 407,
-      "minecraft:rarity": "epic"
+      "minecraft:item_name": "\"Netherite Shell\"",
+      "minecraft:rarity": "epic",
+      "minecraft:max_damage": 407
     },
     "count": 1,
     "id": "minecraft:turtle_helmet"

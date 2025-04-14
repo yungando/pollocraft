@@ -1,0 +1,13 @@
+name = "MT Random Block Placement"
+filename = "randomblockplacement-1.0.3-1.21+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Peew73yt/versions/mHkuLioa/randomblockplacement-1.0.3-1.21%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "f25374060fbd452015cc6f2101c5c784b1a5a3e29ca9ae03a6bbc0849c739760dcc5372e2e05c057082aa37b426aea00e2522a2d1b2ea3fbc6e69914aacd6148"
+
+[update]
+[update.modrinth]
+mod-id = "Peew73yt"
+version = "mHkuLioa"

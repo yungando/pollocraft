@@ -1,0 +1,13 @@
+name = "SwapArmor"
+filename = "swaparmor-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9BKTdCkW/versions/QV3D9bbr/swaparmor-1.0.0.jar"
+hash-format = "sha512"
+hash = "243445394a1e3a3e94d44dabd876fd6b90ef3b97107be8f410a0174ea6107d12caef53c91fe12bcfba03a6dc5d09ef7571df0330386299ff7358966a4c5489eb"
+
+[update]
+[update.modrinth]
+mod-id = "9BKTdCkW"
+version = "QV3D9bbr"
