@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Client.json"
+hash = "1c0e36f3124939575589c950dbdeed152cd3541e125562199aa6783af482aa50"
+
+[[files]]
 file = "config/yosbr/config/PaginatedAdvancements.json5"
 hash = "fdbfe43afe38ad81c4ef0e23cfb30f2d3fcda727cae050f2995c1cabda5acc06"
 
@@ -50,7 +54,7 @@ hash = "7faaf246df9922ebeca8cc914cf338cafaac77ea5c388fe59510b6ed21bd2c00"
 
 [[files]]
 file = "config/yosbr/config/minihud.json"
-hash = "6b1f04f11d25edf41745ed697098060a9c3a7429ea6d81b3b7e48747e91d11be"
+hash = "942bf799660d11ab7294b380978233dbe681fb6b77dd630f9495f55daf6eb196"
 
 [[files]]
 file = "config/yosbr/config/minimalmenu.json"
@@ -98,7 +102,7 @@ hash = "95e79a0b794251cbe064be66f80c9591aec5c436419536a761d08a48b009a6e5"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "c67595d4c24d6e519ba2c98ab36280bfa084623275309d247032aa8659f5e2aa"
+hash = "31c18416593a05c92c17ea61fe65a08987deb112f3ae24392500ace99110fbed"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -312,11 +316,6 @@ metafile = true
 [[files]]
 file = "mods/bobby.pw.toml"
 hash = "8bc168948c5f92a10252f12ad4f41caeefbe508f0326fc4185217d60c4cb2292"
-metafile = true
-
-[[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "a31cc2b635c35b255f86b0136ceaea3cee0cef3f97da98edbac56dec26914e18"
 metafile = true
 
 [[files]]
