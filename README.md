@@ -21,6 +21,6 @@ And if this sounds like too much work:
 
 1 - Download and run the [Prism Launcher](https://prismlauncher.org).
 
-2 - Click `Add Instance` > `Import` and then paste in the following URL: `https://github.com/yungando/pollocraft/raw/1.21.x/MultiMC/pollocraft.zip`.
+2 - Click `Add Instance` > `Import` and then paste in the following URL: `https://github.com/yungando/pollocraft/raw/1.21.x/prism/pollocraft.zip`.
 
 3 - Prism will check for updates whenever you launch the "pollocraft" instance.
