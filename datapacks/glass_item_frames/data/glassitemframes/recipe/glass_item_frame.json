@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:item_frame"
+    },
+    {
+      "item": "minecraft:glass_pane"
+    }
+  ],
+  "result": {
+    "components": {
+      "minecraft:custom_model_data": 404,
+      "minecraft:item_name": "\"Glass Item Frame\"",
+      "minecraft:entity_data": {
+        "id": "minecraft:item_frame",
+        "Tags": ["glassitemframes.frame"],
+        "Invisible": true
+      },
+      "minecraft:custom_data": {
+        "glassitemframes": true
+      }
+    },
+    "count": 1,
+    "id": "minecraft:item_frame"
+  }
+}

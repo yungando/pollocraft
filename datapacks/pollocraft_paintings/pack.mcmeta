@@ -1,0 +1,21 @@
+{
+  "pack": {
+    "description": "Pollocraft Paintings",
+    "pack_format": 48,
+		"supported_formats": {
+			"min_inclusive": 48,
+			"max_inclusive": 71
+		}
+  },
+	"overlays": {
+		"entries": [
+			{
+				"formats": {
+					"min_inclusive": 57,
+					"max_inclusive": 2147483647
+				},
+				"directory": "overlay_57"
+			}
+		]
+	}
+}

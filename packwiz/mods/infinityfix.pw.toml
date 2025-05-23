@@ -1,0 +1,15 @@
+name = "InfinityFix"
+filename = "infinityfix-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/yungando/InfinityFix/releases/download/1.21.1/infinityfix-1.2.0.jar"
+hash-format = "sha256"
+hash = "9605e30ab23996eb2ee8355f6c904e751e1c47ca44ee0f336784e644405c71aa"
+
+[update]
+[update.github]
+branch = "1.21.1"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "yungando/InfinityFix"
+tag = "1.21.1"

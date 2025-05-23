@@ -1,3 +1,20 @@
 {
-  "swapModes": true
+  "controls": {
+    "previewKey": {
+      "code": "key.keyboard.unknown"
+    },
+    "fullPreviewKey": {
+      "code": "key.keyboard.left.shift"
+    },
+    "lockTooltipKey": {
+      "code": "key.keyboard.unknown"
+    }
+  },
+  "preview": {
+    "alwaysOn": true
+  },
+  "tooltip": {
+    "showKeyHints": false,
+    "type": "NONE"
+  }
 }

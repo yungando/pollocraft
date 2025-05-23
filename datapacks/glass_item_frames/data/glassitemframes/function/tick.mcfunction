@@ -1,0 +1,2 @@
+execute as @e[tag=glassitemframes.frame,nbt=!{Item:{}}] at @s unless entity @e[tag=glassitemframes.marker,distance=..0.1] run function glassitemframes:spawn_marker
+execute as @e[type=minecraft:item_display,tag=glassitemframes.marker] at @s unless entity @e[tag=glassitemframes.frame,distance=..0.1] run function glassitemframes:restore

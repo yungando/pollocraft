@@ -1,0 +1,2 @@
+execute as @e[tag=glassitemframes.frame,nbt={Item:{}}] run execute as @n[type=minecraft:item_display,tag=glassitemframes.marker] at @s run kill @s
+advancement revoke @s only glassitemframes:insert_or_rotate

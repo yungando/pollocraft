@@ -1,6 +1,11 @@
 {
   "Generic": {
-    "fontScale": 1.0
+    "bundleTooltips": false,
+    "fontScale": 1.0,
+    "lightLevelMarkers": "cross",
+    "lightLevelNumberCondition": "never",
+    "dateFormatType": "formatted",
+    "dateFormatString": "-"
   },
   "InfoTypeToggles": {
     "infoBiome": true,
@@ -12,11 +17,17 @@
     "infoBiome": {
       "keys": ""
     },
+    "infoServerTPS": {
+      "keys": "G"
+    },
+    "infoPing": {
+      "keys": "G"
+    },
     "infoEntities": {
       "keys": "G"
     },
     "infoTimeIRL": {
-      "keys": ""
+      "keys": "G"
     }
   },
   "config_version": 1

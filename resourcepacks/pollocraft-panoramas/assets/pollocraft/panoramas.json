@@ -1,42 +1,42 @@
 {
-	"andos4": {
-		"weight": 1,
-		"cubemaps": [
-			{
-				"cubemapId": "pollocraft:panoramas/andos4/panorama"
-			}
-		]
-	},
-	"andos2": {
-		"weight": 1,
-		"cubemaps": [
-			{
-				"cubemapId": "pollocraft:panoramas/andos2/panorama"
-			}
-		]
-	},
-	"dandos4": {
-		"weight": 1,
-		"cubemaps": [
-			{
-				"cubemapId": "pollocraft:panoramas/dandos4/panorama"
-			}
-		]
-	},
-	"dandos2": {
-		"weight": 1,
-		"cubemaps": [
-			{
-				"cubemapId": "pollocraft:panoramas/dandos2/panorama"
-			}
-		]
-	},
-	"schlatttower": {
-		"weight": 1,
-		"cubemaps": [
-			{
-				"cubemapId": "pollocraft:panoramas/schlatttower/panorama"
-			}
-		]
-	}
+  "andos4": {
+    "weight": 1,
+    "cubemaps": [
+      {
+        "cubemapId": "pollocraft:panoramas/andos4/panorama"
+      }
+    ]
+  },
+  "andos2": {
+    "weight": 1,
+    "cubemaps": [
+      {
+        "cubemapId": "pollocraft:panoramas/andos2/panorama"
+      }
+    ]
+  },
+  "dandos4": {
+    "weight": 1,
+    "cubemaps": [
+      {
+        "cubemapId": "pollocraft:panoramas/dandos4/panorama"
+      }
+    ]
+  },
+  "dandos2": {
+    "weight": 1,
+    "cubemaps": [
+      {
+        "cubemapId": "pollocraft:panoramas/dandos2/panorama"
+      }
+    ]
+  },
+  "schlatttower": {
+    "weight": 1,
+    "cubemaps": [
+      {
+        "cubemapId": "pollocraft:panoramas/schlatttower/panorama"
+      }
+    ]
+  }
 }

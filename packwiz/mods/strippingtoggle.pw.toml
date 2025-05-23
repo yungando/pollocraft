@@ -1,0 +1,13 @@
+name = "StrippingToggle"
+filename = "strippingtoggle-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/99wZglmI/versions/vqCUzNut/strippingtoggle-1.0.0.jar"
+hash-format = "sha512"
+hash = "491393bc210d9887014e68376b6761f18a7ce91c63fed623276b1b89698b4f1bdb18fc746b2c7cc52b551cc0d77cda3a5e067f059675868e12f0ab45b4d0f187"
+
+[update]
+[update.modrinth]
+mod-id = "99wZglmI"
+version = "vqCUzNut"

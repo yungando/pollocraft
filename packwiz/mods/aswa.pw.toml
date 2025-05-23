@@ -1,0 +1,13 @@
+name = "Armor Stands With Arms | ASWA"
+filename = "armor-stands-with-arms-aswa-0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kg8QykEJ/versions/t5EjEBZ5/armor-stands-with-arms-aswa-0.1.jar"
+hash-format = "sha512"
+hash = "72458bc2529eb13eaf3ab699b896189242a5a4bb1671ee6c18d321c3087c670c0cf6740585cd783f45efdedbb4f68c152fe4575e45996518b4c84bd54db11972"
+
+[update]
+[update.modrinth]
+mod-id = "kg8QykEJ"
+version = "t5EjEBZ5"

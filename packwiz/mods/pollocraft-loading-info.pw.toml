@@ -1,0 +1,15 @@
+name = "pollocraft-loading-info"
+filename = "pollocraft-loading-info-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/yungando/pollocraft-loading-info/releases/download/1.1.1/pollocraft-loading-info-1.1.1.jar"
+hash-format = "sha256"
+hash = "775fbe0cac9766478030b54df8d1945d8fd65cd484645ca68c15838ec50f9f5d"
+
+[update]
+[update.github]
+branch = "1.21"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "yungando/pollocraft-loading-info"
+tag = "1.1.1"

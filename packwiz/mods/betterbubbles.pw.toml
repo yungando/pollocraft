@@ -1,0 +1,13 @@
+name = "Better Bubbles"
+filename = "betterbubbles-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UGGW932g/versions/OWswcKDk/betterbubbles-1.0.0.jar"
+hash-format = "sha512"
+hash = "afdd7b358ef06ba2eba94919e973d676c176a38652f69b6b66c382b24aa5c075e26af8d51d8d35d87ace5e53547e3abd1b67bcd35506c60733d7c686207325df"
+
+[update]
+[update.modrinth]
+mod-id = "UGGW932g"
+version = "OWswcKDk"

@@ -1,0 +1,13 @@
+name = "Anti Ender Dragon Grief"
+filename = "Anti Ender Dragon Grief.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EzwIpTv1/versions/HwdEzeA4/Anti%20Ender%20Dragon%20Grief.zip"
+hash-format = "sha512"
+hash = "4f0e47324eda54e5b92b99561e508c091ae27d9a49b9a48d763f941efd3e124ff4989cd0229f10b5b3d9e76a22ddf5fbad87743ba528c1905e1c5a5ea0ccaabc"
+
+[update]
+[update.modrinth]
+mod-id = "EzwIpTv1"
+version = "HwdEzeA4"

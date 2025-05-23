@@ -1,0 +1,15 @@
+name = "ArmouredElytra"
+filename = "armouredelytra-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/yungando/ArmouredElytra/releases/download/1.0.0/armouredelytra-1.0.0.jar"
+hash-format = "sha256"
+hash = "5db5348c4feac130dcd19bd4e58b23d32a0b880910cf62feff7d36217093443e"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "yungando/ArmouredElytra"
+tag = "1.0.0"

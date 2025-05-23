@@ -1,30 +1,28 @@
 {
-  id: "andosPack",
-  version: 9,
-  capabilities: [
-    "FileFilter",
-    "DirFilter"
+  'id': "andospack",
+  'version': 13,
+  'capabilities': [
+    'FileFilter',
+    'DirFilter'
   ],
-  conf: {
-    blocks: {
-      brewingStand3D: true,
-      pinnedTorches: true,
-      darkerIronDoors: true,
-      spruceTrapDoorFix: true,
-    },
-    items: {
-      fireworkRocket3D: true,
-      adjustedLanternHold: true,
-    },
-    entities: {
-      mannequinArmourStand: true,
-    },
-    misc: {
-      reducedEnchantmentGlint: true,
-      connectedCutSandstone: true,
-    },
-    modOverrides: {
-      vanillaXaerosWorldMapGUI: true,
-    }
+  'conf': {
+    'brewingStand3D': true,
+    'pinnedTorches': true,
+    'darkerIronDoors': true,
+    'spruceTrapDoorFix': true,
+    'fireworkRocket3D': true,
+    'adjustedLanternHold': true,
+    'mannequinArmourStand': true,
+    'reducedEnchantmentGlint': true,
+    'connectedCutSandstone': true,
+    'vanillaXaerosWorldMapGUI': true,
+    'minimalWorldBorder': true,
+    'arrowSprites': true,
+    'arrowSpritesWeapons': true,
+    'tridentSprite': true,
+    'andosite': false,
+    'backportClouds': true,
+    'goldenCarrotHungerBar': true,
+    'maceAccurate3D': true
   }
 }

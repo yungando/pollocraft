@@ -1,6 +1,6 @@
 {
-	"parent": "./player_skin_slim",
-	"textures": {
-		"layer0": "./yungando"
-	}
+  "parent": "./player_skin_slim",
+  "textures": {
+    "layer0": "./yungando"
+  }
 }

@@ -3,11 +3,11 @@ filename = "randomblockplacement-1.0.5-1.21+1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Peew73yt/versions/e4zJrBpp/randomblockplacement-1.0.5-1.21%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/Peew73yt/versions/FLq3ydYD/randomblockplacement-1.0.5-1.21%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "6ada5136ae93cd9cda33d8078811fa0ddc79075239d671c6dcca4c6094d256ab1512687ddde7cb41f2f00ddefbab3d71bd5ace5e5c360a8b3a6674c65eb1d328"
+hash = "2bd8c1cd12095f3a465b4e9c7bae624d5faf5e029efdd397ace553cf9fa0092ab02fab7b8d0fa23679ebb42067eff0bb1501244298e5bb7475fbcca7b780038e"
 
 [update]
 [update.modrinth]
 mod-id = "Peew73yt"
-version = "e4zJrBpp"
+version = "FLq3ydYD"

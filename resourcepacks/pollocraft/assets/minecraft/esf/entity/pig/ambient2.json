@@ -1,0 +1,13 @@
+{
+  "sounds": [
+    {
+      "name": "entity/pig/keiran_pig_say1"
+    },
+    {
+      "name": "entity/pig/keiran_pig_say2"
+    },
+    {
+      "name": "entity/pig/keiran_pig_say3"
+    }
+  ]
+}

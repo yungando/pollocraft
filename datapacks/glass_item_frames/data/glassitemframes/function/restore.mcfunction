@@ -1,0 +1,3 @@
+kill @s
+data modify entity @n[type=minecraft:item,nbt={Item:{id:"minecraft:item_frame"}}] Item.components set value {"minecraft:entity_data": {"id": "minecraft:item_frame","Tags": ["glassitemframes.frame"],"Invisible": 1b},"minecraft:custom_data": {"glassitemframes": true},"minecraft:custom_model_data": 404,"minecraft:item_name": "\"Glass Item Frame\""}
+data modify entity @n[type=minecraft:item,nbt={Item:{id:"minecraft:glow_item_frame"}}] Item.components set value {"minecraft:entity_data": {"id": "minecraft:glow_item_frame","Tags": ["glassitemframes.frame"],"Invisible": 1b},"minecraft:custom_data": {"glassitemframes": true},"minecraft:custom_model_data": 404,"minecraft:item_name": "\"Glowing Glass Item Frame\""}

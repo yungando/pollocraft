@@ -1,0 +1,2 @@
+execute at @s run summon minecraft:item_display ~ ~ ~ {item:{id:"minecraft:glass_pane",count:1,components:{"minecraft:custom_model_data":404}},item_display:"fixed",Tags:["glassitemframes.marker"]}
+data modify entity @n[type=minecraft:item_display,tag=glassitemframes.marker] Rotation set from entity @s Rotation

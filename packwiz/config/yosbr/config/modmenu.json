@@ -3,6 +3,8 @@
   "compact_list": false,
   "count_children": false,
   "mods_button_style": "icon",
+  "game_menu_button_style": "icon",
+  "mod_count_location": "none",
   "update_checker": false,
   "button_update_badge": false
 }

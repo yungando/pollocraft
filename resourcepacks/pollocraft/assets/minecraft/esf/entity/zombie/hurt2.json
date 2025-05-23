@@ -1,0 +1,10 @@
+{
+  "sounds": [
+    {
+      "name": "entity/cow/zombie_hamburglar_hurt1"
+    },
+    {
+      "name": "entity/cow/zombie_hamburglar_hurt2"
+    }
+  ]
+}
