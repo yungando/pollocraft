@@ -33,10 +33,6 @@ file = "config/yosbr/config/emi.css"
 hash = "48757e5141f90a138d263bab63b179990ed2aaaa0d37d6b08ba734f4086c6018"
 
 [[files]]
-file = "config/yosbr/config/fastquit.toml"
-hash = "e7790fb17f4d3c819fb5bae47df958422e452581be7125988d90a88b220c3968"
-
-[[files]]
 file = "config/yosbr/config/freecam.json5"
 hash = "926a751b3d2c083d21c32b629c262a3cc88f224e75564caae55906a3c3cd2a95"
 
