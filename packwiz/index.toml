@@ -555,7 +555,7 @@ metafile = true
 
 [[files]]
 file = "mods/minimalmenu.pw.toml"
-hash = "b88f7bb5d95a7655417f2d3c6d6b70d4bc30a94ed6700b626f24524f3cc926f8"
+hash = "e0ba5896e22fbcb45aebb264498242fb9903c3524028d907c40673b6c2a48438"
 metafile = true
 
 [[files]]

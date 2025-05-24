@@ -5,7 +5,7 @@ side = "both"
 [download]
 url = "https://github.com/yungando/MinimalMenu/releases/download/0.1.4/minimalmenu-1.21.1-0.1.4.jar"
 hash-format = "sha256"
-hash = "b1eae303ef7b7726299cf7266eb3ccfc77a879a3ae73428ca6378859e2871902"
+hash = "e97c32225596dd00c9d09f03e3c4fc78036caddc40cc76952cfa6c50e6ed2c07"
 
 [update]
 [update.github]
