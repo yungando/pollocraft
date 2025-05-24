@@ -1,13 +1,15 @@
-name = "Better Bubbles"
+name = "BetterBubbles"
 filename = "betterbubbles-1.0.0.jar"
-side = "client"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/UGGW932g/versions/OWswcKDk/betterbubbles-1.0.0.jar"
-hash-format = "sha512"
-hash = "afdd7b358ef06ba2eba94919e973d676c176a38652f69b6b66c382b24aa5c075e26af8d51d8d35d87ace5e53547e3abd1b67bcd35506c60733d7c686207325df"
+url = "https://github.com/yungando/BetterBubbles/releases/download/1.0.0/betterbubbles-1.0.0.jar"
+hash-format = "sha256"
+hash = "4c7db0b272b09485040f22abab93f83189f4eca48a04c42d76a72482378af931"
 
 [update]
-[update.modrinth]
-mod-id = "UGGW932g"
-version = "OWswcKDk"
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "yungando/BetterBubbles"
+tag = "1.0.0"

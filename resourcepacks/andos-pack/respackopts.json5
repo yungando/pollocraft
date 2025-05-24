@@ -23,6 +23,7 @@
     'andosite': false,
     'backportClouds': true,
     'goldenCarrotHungerBar': true,
-    'maceAccurate3D': true
+    'maceAccurate3D': true,
+    'vanillaBubblesPop': true
   }
 }

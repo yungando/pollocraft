@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/betterstats.json"
+hash = "a894f9d6fd63e3b22968704dd8b39c3864aa95286d5f4dbda974c6935678cbcc"
+
+[[files]]
+file = "config/minimalmenu.json"
+hash = "05dc9215a0fdaa53ef01848501f4e9b28d8b6fca1f073593e7a09acaa329f7dd"
+
+[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "1c0e36f3124939575589c950dbdeed152cd3541e125562199aa6783af482aa50"
 
@@ -11,6 +19,10 @@ hash = "fdbfe43afe38ad81c4ef0e23cfb30f2d3fcda727cae050f2995c1cabda5acc06"
 [[files]]
 file = "config/yosbr/config/armorchroma.json"
 hash = "34bfd1789b348ff2ea7170db650219c046d4cc58e379abf23db5c6d0a6f965d6"
+
+[[files]]
+file = "config/yosbr/config/betterstats.json"
+hash = "a894f9d6fd63e3b22968704dd8b39c3864aa95286d5f4dbda974c6935678cbcc"
 
 [[files]]
 file = "config/yosbr/config/bobby.conf"
@@ -58,7 +70,7 @@ hash = "942bf799660d11ab7294b380978233dbe681fb6b77dd630f9495f55daf6eb196"
 
 [[files]]
 file = "config/yosbr/config/minimalmenu.json"
-hash = "b327e7c78cc503b656e851787b5d94f3b88a0ad06dffc6d38d311945e3d65017"
+hash = "05dc9215a0fdaa53ef01848501f4e9b28d8b6fca1f073593e7a09acaa329f7dd"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -145,6 +157,10 @@ hash = "5c6a762d84b87b19b50e3e9ab89a0d0e446f7d915e9b1f7ee40379a90826e929"
 metafile = true
 
 [[files]]
+file = "datapacks/bundle_backport.zip"
+hash = "49982d281c1c70032df539a0030529b2064ae79f1948bf2aa3e9288756954148"
+
+[[files]]
 file = "datapacks/confetti creepers v2.2.12 (MC 1.21-1.21.5).zip"
 hash = "01dae4693ac5db004418fe6dad5897caa1256d280896c076c961e39509449747"
 
@@ -214,7 +230,7 @@ hash = "4cbd45e40dada09396ea34754b97685e6179cda7f33254b77b2e851be4e08b77"
 
 [[files]]
 file = "datapacks/pollocraft_paintings.zip"
-hash = "f486c1cbcc9cc23605823675b89554dcbbbd2ad4ef1c53101bc236731b2fbae3"
+hash = "aef715f4cda4059b082204c92915ffc394bc01d7ad19c7b0e5cc4effdae852a2"
 
 [[files]]
 file = "datapacks/unlock all recipes v2.0.12 (MC 1.21-1.21.5).zip"
@@ -295,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterbubbles.pw.toml"
-hash = "ac5d5b3d6212519cf534789ff65b38a108ef5d25aaac5f0742321357de7447a5"
+hash = "c9719647660585e8df3cfe8ac3338bfed43aead0e1c64bcc1773e5407001b03b"
 metafile = true
 
 [[files]]
@@ -528,13 +544,19 @@ hash = "358a4ea31ab4385e7ae0b48888adf95b2362cbf5126dcda750063c557e3eb8b1"
 metafile = true
 
 [[files]]
+file = "mods/minecart-splitting.pw.toml"
+hash = "eaed9e1f64de58b35fa2c8a2835953722f4c7caa6afe9afb05326ab910f04ee5"
+metafile = true
+
+[[files]]
 file = "mods/minihud.pw.toml"
 hash = "6a79c7ffa7f5aa98ded0d31b132f9fbbced65e30dbfba24bbcbbbef00dcc4f35"
 metafile = true
 
 [[files]]
-file = "mods/minimalmenu-1.21.1-0.1.4.jar"
-hash = "ea36267fc18664143c769493ccc23c06eeae61a84b05dd27770036965aa6e060"
+file = "mods/minimalmenu.pw.toml"
+hash = "b88f7bb5d95a7655417f2d3c6d6b70d4bc30a94ed6700b626f24524f3cc926f8"
+metafile = true
 
 [[files]]
 file = "mods/mixintrace.pw.toml"
@@ -702,6 +724,11 @@ hash = "4ac0ff8f42ba982261db46a96e9397df524bb2baaff8db15636a92149766826d"
 metafile = true
 
 [[files]]
+file = "mods/simplerandommotd.pw.toml"
+hash = "90d4545676cbdf67b60deed22220723b4bcddf4a7cc82f995e8cec020bb75d79"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "1af09f16a643df0f61f2c799e981aa0b8c109999f0784584a6eff9a81f1c00c1"
 metafile = true
@@ -778,11 +805,11 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
-hash = "438a110c6feb1c4a421b7f367d1ebad5439dff0ea438981927c1f2e44cf024ec"
+hash = "082702d0d2cd7d926aa7cdea88a294a103f56d8239f9117e67cdd3869d6c06d8"
 
 [[files]]
 file = "resourcepacks/andos-pack.zip"
-hash = "d5420f8673f5b0208410ad7e157ced2bb907021707feb7966b38424e08938065"
+hash = "3c2f66bd88823c44208336db15bcb650c8bdfabe64b170b6638a9eac801ba0eb"
 
 [[files]]
 file = "resourcepacks/pollocraft-panoramas.zip"
@@ -790,7 +817,7 @@ hash = "02f85b7f33878fea32bed74715a0ac58d3531825405d128e7b20a6b47832f018"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
-hash = "845f8d086b45ffe9c2e71c7ba047c012d0d30633e3ab7ab14ff146324069c615"
+hash = "a2a8b546541d4a511a671396f597839c0665d01bc416a73603c945f5c31df1ec"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
