@@ -29,10 +29,6 @@ file = "config/yosbr/config/bobby.conf"
 hash = "5e07d0c2fdfbf2b4b178430ae4ace4993cf5075eff6a7fa1224ef3d146b189d3"
 
 [[files]]
-file = "config/yosbr/config/capes.json5"
-hash = "f28a7e44e12188e5a06f8f9da8a8713fd00bb8ffc8cde31e94cc8d904bdc9e8d"
-
-[[files]]
 file = "config/yosbr/config/chat_heads.json5"
 hash = "a8635f352b8ecad07428a389d5305dff317d3da42321ba935af3eb340df7f251"
 
@@ -63,6 +59,10 @@ hash = "77a939c96c4b01fbbe7b6755d45837eca0d678c0b5e57d8b113900a0bd4b4d6a"
 [[files]]
 file = "config/yosbr/config/limelight.json5"
 hash = "7faaf246df9922ebeca8cc914cf338cafaac77ea5c388fe59510b6ed21bd2c00"
+
+[[files]]
+file = "config/yosbr/config/minecraftcapes.json"
+hash = "e2e7c69b2bd7610443c7152682c730bbbbccf5dfc03d9a4844fce220d89aa8d5"
 
 [[files]]
 file = "config/yosbr/config/minihud.json"
@@ -335,11 +335,6 @@ hash = "8bc168948c5f92a10252f12ad4f41caeefbe508f0326fc4185217d60c4cb2292"
 metafile = true
 
 [[files]]
-file = "mods/capes.pw.toml"
-hash = "c899acdc322ab52800a6e305a16427297f411c1c39d97983be96e8b6a34e157c"
-metafile = true
-
-[[files]]
 file = "mods/centered-crosshair.pw.toml"
 hash = "a67f5aabcc83e6f8af0ea1a775b6e25c96eee4acda5803de1fd986b268522976"
 metafile = true
@@ -546,6 +541,11 @@ metafile = true
 [[files]]
 file = "mods/minecart-splitting.pw.toml"
 hash = "eaed9e1f64de58b35fa2c8a2835953722f4c7caa6afe9afb05326ab910f04ee5"
+metafile = true
+
+[[files]]
+file = "mods/minecraftcapes.pw.toml"
+hash = "f6cdb20146784a286e835d464b651a3a41fc7b3614a3106dd82e6d2705c3c6fa"
 metafile = true
 
 [[files]]
