@@ -505,6 +505,11 @@ hash = "3c8febaee2cec21ec679d1bb52d3bcec046ae5cd3205b7972f36fcdc77410ae6"
 metafile = true
 
 [[files]]
+file = "mods/leaves-us-in-peace.pw.toml"
+hash = "35c9286e4ba744cca20c3f8c5c069880e9f6bf7364c6a3bdccf5a83ea7213e9e"
+metafile = true
+
+[[files]]
 file = "mods/libjf.pw.toml"
 hash = "b78928ad3b2c0416c3db1c5b06dd105021d4071b6f49fc0629272e7b47adc82d"
 metafile = true
@@ -701,11 +706,6 @@ metafile = true
 [[files]]
 file = "mods/seamless.pw.toml"
 hash = "3492ca74cdc795dbcfa4cff6cc9252303e0cd099b55959901b40d4bac9480ff4"
-metafile = true
-
-[[files]]
-file = "mods/separatedleaves.pw.toml"
-hash = "828d96301a0c0bf28a6316aef2577e7d6c05ecb5c75be9059d0aed36ff704533"
 metafile = true
 
 [[files]]
