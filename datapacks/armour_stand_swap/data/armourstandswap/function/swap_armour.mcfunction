@@ -1,12 +1,5 @@
-item replace entity @n[type=minecraft:armor_stand,tag=armourstandswap.placeholder] armor.head from entity @n[type=minecraft:armor_stand,tag=!armourstandswap.placeholder] armor.head
-execute as @e[tag=armourstandswap.interaction] at @s if data entity @s interaction on target run item replace entity @n[type=minecraft:armor_stand,tag=armourstandswap.placeholder] armor.chest from entity @n[type=minecraft:armor_stand,tag=!armourstandswap.placeholder] armor.chest
-execute as @e[tag=armourstandswap.interaction] at @s if data entity @s interaction on target run item replace entity @n[type=minecraft:armor_stand,tag=armourstandswap.placeholder] armor.legs from entity @n[type=minecraft:armor_stand,tag=!armourstandswap.placeholder] armor.legs
-execute as @e[tag=armourstandswap.interaction] at @s if data entity @s interaction on target run item replace entity @n[type=minecraft:armor_stand,tag=armourstandswap.placeholder] armor.feet from entity @n[type=minecraft:armor_stand,tag=!armourstandswap.placeholder] armor.feet
-execute as @e[tag=armourstandswap.interaction] at @s if data entity @s interaction on target run item replace entity @n[type=minecraft:armor_stand,tag=!armourstandswap.placeholder] armor.head from entity @s armor.head
-execute as @e[tag=armourstandswap.interaction] at @s if data entity @s interaction on target run item replace entity @n[type=minecraft:armor_stand,tag=!armourstandswap.placeholder] armor.chest from entity @s armor.chest
-execute as @e[tag=armourstandswap.interaction] at @s if data entity @s interaction on target run item replace entity @n[type=minecraft:armor_stand,tag=!armourstandswap.placeholder] armor.legs from entity @s armor.legs
-execute as @e[tag=armourstandswap.interaction] at @s if data entity @s interaction on target run item replace entity @n[type=minecraft:armor_stand,tag=!armourstandswap.placeholder] armor.feet from entity @s armor.feet
-execute as @e[tag=armourstandswap.interaction] at @s if data entity @s interaction on target run item replace entity @s armor.head from entity @n[type=minecraft:armor_stand,tag=armourstandswap.placeholder] armor.head
-execute as @e[tag=armourstandswap.interaction] at @s if data entity @s interaction on target run item replace entity @s armor.chest from entity @n[type=minecraft:armor_stand,tag=armourstandswap.placeholder] armor.chest
-execute as @e[tag=armourstandswap.interaction] at @s if data entity @s interaction on target run item replace entity @s armor.legs from entity @n[type=minecraft:armor_stand,tag=armourstandswap.placeholder] armor.legs
-execute as @e[tag=armourstandswap.interaction] at @s if data entity @s interaction on target run item replace entity @s armor.feet from entity @n[type=minecraft:armor_stand,tag=armourstandswap.placeholder] armor.feet
+execute as @n[type=minecraft:armor_stand,tag=!armourstandswap.placeholder] at @s run function armourstandswap:armourstand_to_placeholder
+
+execute as @s run function armourstandswap:player_to_armourstand
+
+execute as @s run function armourstandswap:placeholder_to_player
