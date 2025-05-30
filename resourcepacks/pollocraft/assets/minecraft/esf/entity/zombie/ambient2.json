@@ -1,13 +1,13 @@
 {
   "sounds": [
     {
-      "name": "entity/cow/zombie_hamburglar_say1"
+      "name": "entity/zombie/zombie_hamburglar_say1"
     },
     {
-      "name": "entity/cow/zombie_hamburglar_say2"
+      "name": "entity/zombie/zombie_hamburglar_say2"
     },
     {
-      "name": "entity/cow/zombie_hamburglar_say3"
+      "name": "entity/zombie/zombie_hamburglar_say3"
     }
   ]
 }

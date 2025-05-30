@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/betterstats.json"
-hash = "a894f9d6fd63e3b22968704dd8b39c3864aa95286d5f4dbda974c6935678cbcc"
-
-[[files]]
-file = "config/minimalmenu.json"
-hash = "05dc9215a0fdaa53ef01848501f4e9b28d8b6fca1f073593e7a09acaa329f7dd"
-
-[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "1c0e36f3124939575589c950dbdeed152cd3541e125562199aa6783af482aa50"
 
@@ -659,6 +651,11 @@ hash = "0c1a4de056a5d3d3b3fda0ae4aa5ed190761fe364f2d441581a343fdd41714b8"
 metafile = true
 
 [[files]]
+file = "mods/randommotd.pw.toml"
+hash = "707b0eb69f6985800647e12372e9168ef014073f218537bd32c27c2bbd3155b1"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
@@ -721,11 +718,6 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "4ac0ff8f42ba982261db46a96e9397df524bb2baaff8db15636a92149766826d"
-metafile = true
-
-[[files]]
-file = "mods/simplerandommotd.pw.toml"
-hash = "90d4545676cbdf67b60deed22220723b4bcddf4a7cc82f995e8cec020bb75d79"
 metafile = true
 
 [[files]]
@@ -817,7 +809,7 @@ hash = "02f85b7f33878fea32bed74715a0ac58d3531825405d128e7b20a6b47832f018"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
-hash = "a2a8b546541d4a511a671396f597839c0665d01bc416a73603c945f5c31df1ec"
+hash = "bf445035f6ae9b2e6f134e44a0911fb7ca23522dd11cfac6f60962e85b6443fe"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
