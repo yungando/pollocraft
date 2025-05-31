@@ -19,6 +19,7 @@
   ],
   "rewards": {
     "recipes": [
+      "pollocraft:painting_variant/alpha",
       "pollocraft:painting_variant/andosite",
       "pollocraft:painting_variant/birdie",
       "pollocraft:painting_variant/blue_minecraft_bed",
