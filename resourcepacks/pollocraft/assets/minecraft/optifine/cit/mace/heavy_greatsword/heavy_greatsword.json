@@ -1,0 +1,38 @@
+{
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "./heavy_greatsword"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -90, 50],
+			"translation": [0, 8.5, 1.5],
+			"scale": [1.5, 1.5, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, -50],
+			"translation": [0, 8.5, 1.5],
+			"scale": [1.5, 1.5, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [-20, -90, 0],
+			"translation": [0, 4, 1.25],
+			"scale": [1.2, 1.2, 0.5]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-20, 90, 0],
+			"translation": [0, 4, 1.25],
+			"scale": [1.2, 1.2, 0.5]
+		},
+		"ground": {
+			"translation": [0, 1.75, 0],
+			"scale": [0.7, 0.7, 0.35]
+		},
+		"gui": {
+			"translation": [0.5, 0, 0]
+		},
+		"fixed": {
+			"scale": [1, 1, 0.5]
+		}
+	}
+}

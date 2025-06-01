@@ -651,6 +651,11 @@ hash = "d57776d98b00e5bca9befd87ba08c713c0aa5ceb6afb43b49f9eec0e91f002a6"
 metafile = true
 
 [[files]]
+file = "mods/raised.pw.toml"
+hash = "98362357cbb70b039275c055bb357fad1bb8a1566d5713dd7cfd9132dd606886"
+metafile = true
+
+[[files]]
 file = "mods/random-block-placement.pw.toml"
 hash = "0c1a4de056a5d3d3b3fda0ae4aa5ed190761fe364f2d441581a343fdd41714b8"
 metafile = true
@@ -814,7 +819,7 @@ hash = "02f85b7f33878fea32bed74715a0ac58d3531825405d128e7b20a6b47832f018"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
-hash = "10a15d574e3dd88669a5851fb9858da433846f94e3e7554a8a3a07f96caecdd9"
+hash = "612093366169f1717e4a9d46b2711afce8867235e316d8d1a46984a652db9f71"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
