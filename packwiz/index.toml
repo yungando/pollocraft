@@ -567,7 +567,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "e82c4d4a21b46e5e0c71750f4843a9816f79c0fc1ecda31df8f40c43daa30d12"
+hash = "1584444b7f16488634393b73c6cd7ab5247338beb9d5eda623b32db64adc3871"
 metafile = true
 
 [[files]]
@@ -602,7 +602,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-resource-pack-warnings.pw.toml"
-hash = "275212f23c7a91b4764b7df11b163aac06a32e87bfe955ad758d04d68cb61eb7"
+hash = "da9ac20bdc1caa50ebec291429638780924e8a5060ec39abe085c7e6182b3a6f"
 metafile = true
 
 [[files]]
