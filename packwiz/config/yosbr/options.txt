@@ -28,6 +28,7 @@ key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.loadToolbarActivator:key.keyboard.unknown
 key_key.chat:key.keyboard.enter
 key_key.playerlist:key.keyboard.t
+key_key.socialInteractions:key.keyboard.unknown
 key_key.wi_zoom.zoom:key.keyboard.e
 key_key.randomblockplacement.toggle:key.keyboard.unknown
 key_key.freecam.toggle:key.keyboard.x
@@ -39,4 +40,9 @@ key_gui.xaero_open_settings:key.keyboard.unknown
 key_key.strippingtoggle.toggleStripping:key.keyboard.unknown
 key_key.lighty.enable:key.keyboard.unknown
 key_key.lighty.toggle:key.keyboard.f7
+key_key.musicnotification.open_screen:key.keyboard.unknown
+key_key.raised.options:key.keyboard.unknown
+key_key.minecraftcapes.gui:key.keyboard.unknown
+key_betterstats.key_binding.toggle_hud_screen:key.keyboard.unknown
+key_key.vistas.panoramic_screenshot:key.keyboard.unknown
 soundCategory_music:0.5

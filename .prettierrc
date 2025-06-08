@@ -1,0 +1,16 @@
+{
+  "overrides": [
+    {
+      "files": "*.jem",
+      "options": { "parser": "json" }
+    },
+    {
+      "files": "*.rpo",
+      "options": { "parser": "json" }
+    },
+    {
+      "files": "*.json5",
+      "options": { "parser": "json" }
+    }
+  ]
+}

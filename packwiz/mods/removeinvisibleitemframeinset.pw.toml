@@ -1,0 +1,15 @@
+name = "RemoveInvisibleItemFrameInset"
+filename = "removeinvisibleitemframeinset-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/yungando/RemoveInvisibleItemFrameInset/releases/download/1.0.0/removeinvisibleitemframeinset-1.0.0.jar"
+hash-format = "sha256"
+hash = "3434028d8afb2333e4428c08af137ff965fe161880229831d2b3edf22f17f9b0"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "yungando/RemoveInvisibleItemFrameInset"
+tag = "1.0.0"

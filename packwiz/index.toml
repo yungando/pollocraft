@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
-hash = "1c0e36f3124939575589c950dbdeed152cd3541e125562199aa6783af482aa50"
+hash = "4e5cea9af004650e0d31a6b3abf9672e1a3c5870c934bb98f6f8cd4de567d11e"
 
 [[files]]
 file = "config/yosbr/config/PaginatedAdvancements.json5"
-hash = "fdbfe43afe38ad81c4ef0e23cfb30f2d3fcda727cae050f2995c1cabda5acc06"
+hash = "120e3f861aa83945e524e7069604cd5c9ae11691c57abff04d7515b5d848a173"
 
 [[files]]
 file = "config/yosbr/config/armorchroma.json"
@@ -14,7 +14,7 @@ hash = "34bfd1789b348ff2ea7170db650219c046d4cc58e379abf23db5c6d0a6f965d6"
 
 [[files]]
 file = "config/yosbr/config/betterstats.json"
-hash = "a894f9d6fd63e3b22968704dd8b39c3864aa95286d5f4dbda974c6935678cbcc"
+hash = "d9abdee21b346601050f6b441ffa9dbb199e4661133e56625488780ab5feb4de"
 
 [[files]]
 file = "config/yosbr/config/bobby.conf"
@@ -22,7 +22,7 @@ hash = "5e07d0c2fdfbf2b4b178430ae4ace4993cf5075eff6a7fa1224ef3d146b189d3"
 
 [[files]]
 file = "config/yosbr/config/chat_heads.json5"
-hash = "a8635f352b8ecad07428a389d5305dff317d3da42321ba935af3eb340df7f251"
+hash = "1dca4dcf437c38592d102e051dd51458d7524de010b56c85b072febecf01ab37"
 
 [[files]]
 file = "config/yosbr/config/customwindowtitle-client.toml"
@@ -38,7 +38,7 @@ hash = "48757e5141f90a138d263bab63b179990ed2aaaa0d37d6b08ba734f4086c6018"
 
 [[files]]
 file = "config/yosbr/config/freecam.json5"
-hash = "926a751b3d2c083d21c32b629c262a3cc88f224e75564caae55906a3c3cd2a95"
+hash = "5916a4521424706cf1255be99aa37cd13c56ad5fd59b4e35c9f3346108b9d889"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -50,11 +50,11 @@ hash = "77a939c96c4b01fbbe7b6755d45837eca0d678c0b5e57d8b113900a0bd4b4d6a"
 
 [[files]]
 file = "config/yosbr/config/limelight.json5"
-hash = "7faaf246df9922ebeca8cc914cf338cafaac77ea5c388fe59510b6ed21bd2c00"
+hash = "952eba867a6093d731a4ed688e8554084743cdcd79babde36448f3b9f0f039bc"
 
 [[files]]
 file = "config/yosbr/config/minecraftcapes.json"
-hash = "e2e7c69b2bd7610443c7152682c730bbbbccf5dfc03d9a4844fce220d89aa8d5"
+hash = "cf0de18685e311c836b27295abd5685a115abe28d0d414a02d9c9964cd29f8a0"
 
 [[files]]
 file = "config/yosbr/config/minihud.json"
@@ -62,7 +62,7 @@ hash = "9938baee19288576bea2b059fddbf7eb9e381d16c7788cb44f041ce063d80186"
 
 [[files]]
 file = "config/yosbr/config/minimalmenu.json"
-hash = "05dc9215a0fdaa53ef01848501f4e9b28d8b6fca1f073593e7a09acaa329f7dd"
+hash = "b5a71664f53d80fdf14842398f4e820c751be767f6894038c3fd7171872383d7"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -90,7 +90,7 @@ hash = "7b7d449e326bee55cbcf972030d5ba42eec4a0ccf6ea7b955d865c44fbe05d37"
 
 [[files]]
 file = "config/yosbr/config/shulkerboxtooltip.json5"
-hash = "e964b4ff882f1ff9d7621588b17adf99358f2389fa41652d520eef7ac86b11ae"
+hash = "58c810c95f7282cb705382dbdfba2f7e755151037d330e1d0de3979753b82848"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
@@ -106,7 +106,7 @@ hash = "95e79a0b794251cbe064be66f80c9591aec5c436419536a761d08a48b009a6e5"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "31c18416593a05c92c17ea61fe65a08987deb112f3ae24392500ace99110fbed"
+hash = "8cb14fcf9c22d4e2adb734aea534a324fe2db212319fe4205b2bdbf421b30e35"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "datapacks/bundle_backport.zip"
-hash = "49982d281c1c70032df539a0030529b2064ae79f1948bf2aa3e9288756954148"
+hash = "9d8d203dd837baa5fe5057c1be1061af4c0ea73136b870d501f6211c682da413"
 
 [[files]]
 file = "datapacks/confetti creepers v2.2.12 (MC 1.21-1.21.5).zip"
@@ -188,7 +188,7 @@ hash = "631a7d90986e456edea89482c1940678040e8a25f0916a27985538234fc64528"
 
 [[files]]
 file = "datapacks/hoglins_hate_overworld.zip"
-hash = "6ad872acf5292e614eb5aedcd656f7f386a58daf6d2f3643a0a1c5f697550f6e"
+hash = "188d87cc031f62bce762bd1ca2548a5e9deb5a5ed93ccbffe173afc821d6927e"
 
 [[files]]
 file = "datapacks/instaslate.pw.toml"
@@ -222,7 +222,7 @@ hash = "4cbd45e40dada09396ea34754b97685e6179cda7f33254b77b2e851be4e08b77"
 
 [[files]]
 file = "datapacks/pollocraft_paintings.zip"
-hash = "374b984a9aaa1947addfe3c1c32f77c4936c2f1039c141689493d82f5b84cf63"
+hash = "d7caa1d941b76aaa1f093baa26b82cd98ad67d2ea27908ded341ca3316b2cd2d"
 
 [[files]]
 file = "datapacks/unlock all recipes v2.0.12 (MC 1.21-1.21.5).zip"
@@ -646,11 +646,6 @@ hash = "24d05cf1b859d2e2944e147146775e4b19b813e52bd93dd1b3f42f7c2b8acd04"
 metafile = true
 
 [[files]]
-file = "mods/purpurpacks-copper-block-beacon-base.pw.toml"
-hash = "d57776d98b00e5bca9befd87ba08c713c0aa5ceb6afb43b49f9eec0e91f002a6"
-metafile = true
-
-[[files]]
 file = "mods/raised.pw.toml"
 hash = "98362357cbb70b039275c055bb357fad1bb8a1566d5713dd7cfd9132dd606886"
 metafile = true
@@ -668,6 +663,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
+metafile = true
+
+[[files]]
+file = "mods/removeinvisibleitemframeinset.pw.toml"
+hash = "0dccd716225f1325783c161ba075d0ae50bf069da8005071b9dd7b4e6ba9e183"
 metafile = true
 
 [[files]]
@@ -811,7 +811,7 @@ hash = "2dd7095f157c1fb23dbf3e92111d786f39719069a5ef2a5026cb7b3ba624d47e"
 
 [[files]]
 file = "resourcepacks/andos-pack.zip"
-hash = "cc523a78f10c13f62c3996d7984d42d942b0cf7b5d0e4f7579918900577ea1b5"
+hash = "84cadedcaf034fe9f539e225b2500f590986833021fc00661a211904e77863da"
 
 [[files]]
 file = "resourcepacks/pollocraft-panoramas.zip"
@@ -819,7 +819,7 @@ hash = "02f85b7f33878fea32bed74715a0ac58d3531825405d128e7b20a6b47832f018"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
-hash = "af18308f0a48ce60ee63fb406b459e1c355572ae8612621f2bce4f1f05287db9"
+hash = "675e08028466069a43eb04c1d071d786fc5693b3d4af8dceb78aac1686527135"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

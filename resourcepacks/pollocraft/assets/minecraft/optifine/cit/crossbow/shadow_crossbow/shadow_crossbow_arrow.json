@@ -1,0 +1,6 @@
+{
+  "parent": "./shadow_crossbow",
+  "textures": {
+    "layer0": "./shadow_crossbow_arrow"
+  }
+}

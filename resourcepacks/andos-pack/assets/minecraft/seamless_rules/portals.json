@@ -1,0 +1,5 @@
+{
+  "blocks": ["minecraft:nether_portal", "minecraft:end_portal"],
+  "directions": ["up", "down", "north", "south", "east", "west"],
+  "connecting_blocks": ["/same"]
+}

@@ -12,11 +12,7 @@
       }
     }
   },
-  "requirements": [
-    [
-      "has_item"
-    ]
-  ],
+  "requirements": [["has_item"]],
   "rewards": {
     "recipes": [
       "pollocraft:painting_variant/alpha",

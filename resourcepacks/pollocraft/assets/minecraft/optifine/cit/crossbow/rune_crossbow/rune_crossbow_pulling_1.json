@@ -1,0 +1,6 @@
+{
+  "parent": "./rune_crossbow",
+  "textures": {
+    "layer0": "./rune_crossbow_pulling_1"
+  }
+}

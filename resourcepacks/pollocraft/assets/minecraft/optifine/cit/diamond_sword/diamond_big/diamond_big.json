@@ -1,8 +1,5 @@
 {
-  "parent": "minecraft:item/handheld",
-  "textures": {
-    "layer0": "minecraft:item/diamond_sword"
-  },
+  "parent": "minecraft:item/diamond_sword",
   "display": {
     "thirdperson_righthand": {
       "rotation": [0, -90, 55],
@@ -13,6 +10,10 @@
       "rotation": [0, 90, -55],
       "translation": [0, 9.5, 1],
       "scale": [2, 2, 2]
+    },
+    "fixed": {
+      "rotation": [0, 180, 0],
+      "scale": [4, 4, 4]
     }
   }
 }

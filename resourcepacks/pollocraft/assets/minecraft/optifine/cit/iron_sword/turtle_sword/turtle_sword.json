@@ -1,5 +1,5 @@
 {
-  "parent": "item/handheld",
+  "parent": "minecraft:item/handheld",
   "textures": {
     "layer0": "./turtle_sword"
   },
@@ -13,6 +13,10 @@
       "rotation": [0, 90, -55],
       "translation": [0.5, 6, 1],
       "scale": [1.25, 1.25, 1.25]
+    },
+    "fixed": {
+      "rotation": [0, 180, 0],
+      "scale": [2, 2, 2]
     }
   }
 }

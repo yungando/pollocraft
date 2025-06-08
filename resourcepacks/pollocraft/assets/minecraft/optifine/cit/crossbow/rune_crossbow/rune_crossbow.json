@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/crossbow",
+  "textures": {
+    "layer0": "./rune_crossbow"
+  },
+  "gui_light": "front",
+  "display": {
+    "fixed": {
+      "scale": [2, 2, 1]
+    }
+  }
+}

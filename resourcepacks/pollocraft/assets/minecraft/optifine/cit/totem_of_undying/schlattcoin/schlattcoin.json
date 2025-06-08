@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/totem_of_undying",
+  "textures": {
+    "layer0": "./schlattcoin"
+  },
+  "display": {
+    "fixed": {
+      "rotation": [0, 180, 0],
+      "scale": [2, 2, 1]
+    }
+  }
+}
