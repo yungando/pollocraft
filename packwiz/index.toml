@@ -222,7 +222,7 @@ hash = "4cbd45e40dada09396ea34754b97685e6179cda7f33254b77b2e851be4e08b77"
 
 [[files]]
 file = "datapacks/pollocraft_paintings.zip"
-hash = "d7caa1d941b76aaa1f093baa26b82cd98ad67d2ea27908ded341ca3316b2cd2d"
+hash = "2c95c9fd9f9de55b3e0fd8b0d90b3265bad1f4314b9714972a6284847dd110b2"
 
 [[files]]
 file = "datapacks/unlock all recipes v2.0.12 (MC 1.21-1.21.5).zip"
@@ -439,6 +439,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
+metafile = true
+
+[[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "8945ea290647fec8b91c24bd81821ee1d73d84a968d23260dbee24ceb951db4d"
 metafile = true
 
 [[files]]
@@ -667,7 +672,7 @@ metafile = true
 
 [[files]]
 file = "mods/removeinvisibleitemframeinset.pw.toml"
-hash = "0dccd716225f1325783c161ba075d0ae50bf069da8005071b9dd7b4e6ba9e183"
+hash = "0b89f7373f0d7ad5bf224657163cf8ddfc692163b61fab1f8ffbbc444106cb05"
 metafile = true
 
 [[files]]
@@ -819,7 +824,7 @@ hash = "02f85b7f33878fea32bed74715a0ac58d3531825405d128e7b20a6b47832f018"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
-hash = "55de08e84d228f8c86feb62a5df6121e409fd8ac3d1cda790a5d69c9b9382df8"
+hash = "f0586ef21dfeaab4ed6b7ff32dda05e472e40cab666de533e65da8118e9551da"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
