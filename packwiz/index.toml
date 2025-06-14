@@ -114,7 +114,7 @@ hash = "95e79a0b794251cbe064be66f80c9591aec5c436419536a761d08a48b009a6e5"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "11d13a04d09c46e8b465ae38c0ec4b23b7b931a0ae6c576b15892027bea47d42"
+hash = "4f746925450f42d3915d737a3965285207aae31bcfcc8ad1bdaac3a12eb4359b"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -663,8 +663,8 @@ hash = "98362357cbb70b039275c055bb357fad1bb8a1566d5713dd7cfd9132dd606886"
 metafile = true
 
 [[files]]
-file = "mods/random-block-placement.pw.toml"
-hash = "0c1a4de056a5d3d3b3fda0ae4aa5ed190761fe364f2d441581a343fdd41714b8"
+file = "mods/randomblockplacement.pw.toml"
+hash = "c112e71fd8adf1eaa14ae1e948c3700dcbdd60c334e8bad61fad7e1e76e60cc7"
 metafile = true
 
 [[files]]
