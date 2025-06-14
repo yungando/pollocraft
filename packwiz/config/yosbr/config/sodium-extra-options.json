@@ -1,8 +1,9 @@
 {
   "render_settings": {
-    "fog_distance": 33
+    "fog_distance": 32
   },
   "extra_settings": {
+    "cloud_distance": 300,
     "recipe_toast": false,
     "tutorial_toast": false
   }

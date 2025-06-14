@@ -49,6 +49,10 @@ file = "config/yosbr/config/isxander-main-menu-credits.json"
 hash = "77a939c96c4b01fbbe7b6755d45837eca0d678c0b5e57d8b113900a0bd4b4d6a"
 
 [[files]]
+file = "config/yosbr/config/lighty/base.config"
+hash = "8f552a9aa73711831b6cb034f8b1fa430430309c594a08c0360aeb8e216acbc0"
+
+[[files]]
 file = "config/yosbr/config/limelight.json5"
 hash = "952eba867a6093d731a4ed688e8554084743cdcd79babde36448f3b9f0f039bc"
 
@@ -77,6 +81,10 @@ file = "config/yosbr/config/musicnotification.json"
 hash = "86e5b73637540bdb9c84ac47a673ffa35a9777cc8910a48c972209c64ea51f04"
 
 [[files]]
+file = "config/yosbr/config/particlerain.json5"
+hash = "2631c51a76193c0b61161db6c7d701fadf0f35e125a8c38fe4e21dfa56ad4466"
+
+[[files]]
 file = "config/yosbr/config/rprenames.json"
 hash = "88ba890f6d0045d4e6e67df314880930cb2f2c822c99283a6de277a0db12ed1c"
 
@@ -94,7 +102,7 @@ hash = "58c810c95f7282cb705382dbdfba2f7e755151037d330e1d0de3979753b82848"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
-hash = "aad0e25428349cf934bfebba4690c8cf3970fd3d065a17707c52ddb7ae1b28e2"
+hash = "beac9713d8267263fcfca1336cef2982ae0562d64fe5068ae0b006a97fc14082"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
@@ -106,7 +114,7 @@ hash = "95e79a0b794251cbe064be66f80c9591aec5c436419536a761d08a48b009a6e5"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "8cb14fcf9c22d4e2adb734aea534a324fe2db212319fe4205b2bdbf421b30e35"
+hash = "11d13a04d09c46e8b465ae38c0ec4b23b7b931a0ae6c576b15892027bea47d42"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -114,7 +122,7 @@ hash = "61e852deddcfa23f76efc759459382b8db53aab498292fe04084d8f995b2d917"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryReimagined_r5.5.1 + EuphoriaPatches_1.6.1.txt"
-hash = "422d949b910407c22d84a42114b0e6aaaaca822df7d70ca1415e7633b0422651"
+hash = "12fdcfed806647aa982866c10c8f2a209f3726ef0382e5f5215e112c901c4652"
 
 [[files]]
 file = "datapacks/CraftingTweaks.zip"
@@ -191,9 +199,8 @@ file = "datapacks/hoglins_hate_overworld.zip"
 hash = "188d87cc031f62bce762bd1ca2548a5e9deb5a5ed93ccbffe173afc821d6927e"
 
 [[files]]
-file = "datapacks/instaslate.pw.toml"
-hash = "1f4c79edb28ae7342fb367e3c3303a57efa392f7ef1aa5e6702be0320bf2dd1a"
-metafile = true
+file = "datapacks/instaslate-v1.0.0-datapack.zip"
+hash = "ab0e5bda8e8c6a35abe78e1a67533174bf98decaaeda47fef85d9753946b7f42"
 
 [[files]]
 file = "datapacks/more effective tools v1.0.5 (MC 1.21-1.21.5).zip"
@@ -816,7 +823,7 @@ hash = "bbe8789afa278ca7ca4225992b2d23497f42ea67793c6c1cee8fa6faeb3fc9d0"
 
 [[files]]
 file = "resourcepacks/andos-pack.zip"
-hash = "84cadedcaf034fe9f539e225b2500f590986833021fc00661a211904e77863da"
+hash = "d244090a2615c9e11ea2c536a26f9c4c348be3c5fca001448bd53e6b4efb3e0c"
 
 [[files]]
 file = "resourcepacks/pollocraft-panoramas.zip"
@@ -824,7 +831,7 @@ hash = "02f85b7f33878fea32bed74715a0ac58d3531825405d128e7b20a6b47832f018"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
-hash = "63bc228e14ce1b3c34d4ecd482622f67b298d94f6216d2a5bccde33035ae497f"
+hash = "4634de0a49031bdec1c91e590ec49bb05256a798e537383ce95c48433f06f1dd"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
