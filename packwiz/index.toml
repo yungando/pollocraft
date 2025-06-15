@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterbubbles.pw.toml"
-hash = "c9719647660585e8df3cfe8ac3338bfed43aead0e1c64bcc1773e5407001b03b"
+hash = "67f451558f40165f9e978d78910922635065c86ebc8afc4c734d3b43aca66d94"
 metafile = true
 
 [[files]]
@@ -549,7 +549,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecart-splitting.pw.toml"
-hash = "eaed9e1f64de58b35fa2c8a2835953722f4c7caa6afe9afb05326ab910f04ee5"
+hash = "e6af8f56fe33a9e8bba31cba8c14b591afd2175df60e0ac8611a44506e13c21d"
 metafile = true
 
 [[files]]
@@ -564,7 +564,7 @@ metafile = true
 
 [[files]]
 file = "mods/minimalmenu.pw.toml"
-hash = "e0ba5896e22fbcb45aebb264498242fb9903c3524028d907c40673b6c2a48438"
+hash = "564d8c8270d76fc2d4f658479f53440f3f430c8ff0b5d202614632734cb5eeb7"
 metafile = true
 
 [[files]]
@@ -624,7 +624,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "dcc936d7bd32a86ce63fa3bf013864a4e2ed979cb126a915153ac70ce5e5671f"
+hash = "d2afe74b6bc4181be6e8684a6891060aa7f231cb9c1bc5b39f843698a28937c3"
 metafile = true
 
 [[files]]
@@ -654,7 +654,7 @@ metafile = true
 
 [[files]]
 file = "mods/pollocraft-loading-info.pw.toml"
-hash = "24d05cf1b859d2e2944e147146775e4b19b813e52bd93dd1b3f42f7c2b8acd04"
+hash = "82c986dd136eb25ba319435868323448ae680ee3bd4578d2a4c4408e47b6ceeb"
 metafile = true
 
 [[files]]
@@ -664,7 +664,7 @@ metafile = true
 
 [[files]]
 file = "mods/randomblockplacement.pw.toml"
-hash = "c112e71fd8adf1eaa14ae1e948c3700dcbdd60c334e8bad61fad7e1e76e60cc7"
+hash = "74b09b381dd989f62ae5a19b53adfb76eaed8a1464ab330e6e42b3da77d96b05"
 metafile = true
 
 [[files]]
@@ -679,7 +679,7 @@ metafile = true
 
 [[files]]
 file = "mods/removeinvisibleitemframeinset.pw.toml"
-hash = "0b89f7373f0d7ad5bf224657163cf8ddfc692163b61fab1f8ffbbc444106cb05"
+hash = "540fef5cb0c4eb68ea6e3c662c33f0da6432658b733ad7dcd48f315e49646a11"
 metafile = true
 
 [[files]]
@@ -689,7 +689,7 @@ metafile = true
 
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
-hash = "a9fbf104220ee025e339c1975856807e8e4ecd2e2cc5b3ce2d7dff7a463b523e"
+hash = "85a16f6d04a20d0ec7284621f1ab51407ce5fb08f260f71831498a786c9bbcc7"
 metafile = true
 
 [[files]]

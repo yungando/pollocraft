@@ -1,6 +1,6 @@
 name = "BetterBubbles"
 filename = "betterbubbles-1.0.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://github.com/yungando/BetterBubbles/releases/download/1.0.0/betterbubbles-1.0.0.jar"

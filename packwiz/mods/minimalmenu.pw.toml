@@ -1,6 +1,6 @@
 name = "MinimalMenu"
 filename = "minimalmenu-1.21.1-0.1.4.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://github.com/yungando/MinimalMenu/releases/download/0.1.4/minimalmenu-1.21.1-0.1.4.jar"

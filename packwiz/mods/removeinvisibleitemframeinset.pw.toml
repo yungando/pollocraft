@@ -1,6 +1,6 @@
 name = "RemoveInvisibleItemFrameInset"
 filename = "removeinvisibleitemframeinset-1.0.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://github.com/yungando/RemoveInvisibleItemFrameInset/releases/download/1.0.0/removeinvisibleitemframeinset-1.0.0.jar"
