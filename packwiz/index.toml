@@ -435,12 +435,12 @@ metafile = true
 
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
-hash = "15faa54abc7793ee327d09869a907fcd017b01daf49c12aade732d3231cbc1d9"
+hash = "9f9861528accd9ee8830611cea5c64a266bf09e3146f8ff31bcafc3db26497b0"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a3642d02cf384305528c3d7ecdbdd8cd88a89156d4d1be057b9c9e5e4d8309b2"
+hash = "ee046dec20041b38766e6206da2be399bdb5e12d5dc4386fcec179d297464b34"
 metafile = true
 
 [[files]]
