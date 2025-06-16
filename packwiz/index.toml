@@ -299,6 +299,11 @@ hash = "856c8fe2079c5123a690e886a2b92afb2be39c1540b3359a1428d5cc6fbe5a83"
 metafile = true
 
 [[files]]
+file = "mods/better-f1-reborn.pw.toml"
+hash = "f161789f674eef361553d75291e13d837db80b1a64800ec483465ca670c47150"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "7c45c50ac2431db0dd3697e16a180a55ac0f2a753540b0bd310eb593b8b0bd0a"
 metafile = true
@@ -306,6 +311,11 @@ metafile = true
 [[files]]
 file = "mods/better-stats.pw.toml"
 hash = "7b87ea6e0623ada323e65fa0420e0827f6e88689898a0454376e460ad8cbc5dc"
+metafile = true
+
+[[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "dd18db1413980ef467ac2e86c7e5f3cef26d366119f43121204a442583e7c0bd"
 metafile = true
 
 [[files]]
