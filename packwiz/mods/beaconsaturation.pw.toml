@@ -1,13 +1,13 @@
 name = "BeaconSaturation"
-filename = "beaconsaturation-1.0.0.jar"
+filename = "beaconsaturation-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IHZWyUQi/versions/UA3uDMs8/beaconsaturation-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/IHZWyUQi/versions/1Fujev1F/beaconsaturation-1.0.1.jar"
 hash-format = "sha512"
-hash = "2c63214554484275b664cdc38de4360efbfc0ac78f5687a8a6c18c7c6450a4fa309aa7bd8b28814d350a695333342fcf77831ddb40c715224458f2d0012ee631"
+hash = "6be116a269ce9b051a1980d46d308a5c5c76ac3864e6ebac9b4359fedcf2cc926642272b9d3d153fafb681c511ca34503893d6157ae1c05a274283b9c9bd8d63"
 
 [update]
 [update.modrinth]
 mod-id = "IHZWyUQi"
-version = "UA3uDMs8"
+version = "1Fujev1F"

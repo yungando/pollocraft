@@ -37,7 +37,6 @@ key_key.clickthrough.toggle:key.keyboard.unknown
 key_key.bcbui.areaselectioninput:key.keyboard.unknown
 key_gui.xaero_open_settings:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.unknown
-key_key.strippingtoggle.toggleStripping:key.keyboard.unknown
 key_key.lighty.enable:key.keyboard.unknown
 key_key.lighty.toggle:key.keyboard.f7
 key_key.musicnotification.open_screen:key.keyboard.unknown

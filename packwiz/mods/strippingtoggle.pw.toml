@@ -1,13 +1,13 @@
 name = "StrippingToggle"
-filename = "strippingtoggle-1.0.0.jar"
+filename = "strippingtoggle-1.2.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/99wZglmI/versions/vqCUzNut/strippingtoggle-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/99wZglmI/versions/1HnuqPo0/strippingtoggle-1.2.0.jar"
 hash-format = "sha512"
-hash = "491393bc210d9887014e68376b6761f18a7ce91c63fed623276b1b89698b4f1bdb18fc746b2c7cc52b551cc0d77cda3a5e067f059675868e12f0ab45b4d0f187"
+hash = "efeb9bb56aa4f74c30d1e897f13da75fab1ee0db56d8e712f879049fa89d553207a821454a4b1caff2dca8afdde59c0cf2bc6ea3a0856ed5acbcb08e3571a8fe"
 
 [update]
 [update.modrinth]
 mod-id = "99wZglmI"
-version = "vqCUzNut"
+version = "1HnuqPo0"

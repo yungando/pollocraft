@@ -1,13 +1,13 @@
 name = "TooltipToggles"
-filename = "tooltiptoggles-1.2.1.jar"
+filename = "tooltiptoggles-1.2.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4qdjOHhB/versions/anLUn0aO/tooltiptoggles-1.2.1.jar"
+url = "https://cdn.modrinth.com/data/4qdjOHhB/versions/B5AofYkE/tooltiptoggles-1.2.3.jar"
 hash-format = "sha512"
-hash = "da406f5c7c833e2fb5fdd5930ce1ab65f9bbab88b3d4a2b6f6b578dbd55447644433057f89972cfac7b4851fffd6afe8c17043a701cce9d81d803768855609ad"
+hash = "d894e260e31eca13fd560b1d00e992da5c9e6e9304361b38abc973337d2d5e2d5d1f5974c29e820aa2ec70e0e6e995bb14ddf957ca7baa4fa7c235895c4a645d"
 
 [update]
 [update.modrinth]
 mod-id = "4qdjOHhB"
-version = "anLUn0aO"
+version = "B5AofYkE"
