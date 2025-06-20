@@ -229,7 +229,7 @@ hash = "4cbd45e40dada09396ea34754b97685e6179cda7f33254b77b2e851be4e08b77"
 
 [[files]]
 file = "datapacks/pollocraft_paintings.zip"
-hash = "d01a210d095c85b9b459f8e6202cd0ac2d04e0dddc6b647e375e446df9c89b8d"
+hash = "c20b4a7138dc09fa83051f86c47b8cef6dcb845ac476b0469c2aaaf3186225b8"
 
 [[files]]
 file = "datapacks/unlock all recipes v2.0.12 (MC 1.21-1.21.5).zip"
@@ -410,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-physics.pw.toml"
-hash = "5ef4c540de89a64a17e4917898e6e07318536e605793a6843f12741d73bd8c0e"
+hash = "721f0ce637548ddc3b7553799bf96d6b61392a04b4ae6dfb9fae8ac3b820da35"
 metafile = true
 
 [[files]]
@@ -833,7 +833,7 @@ hash = "bbe8789afa278ca7ca4225992b2d23497f42ea67793c6c1cee8fa6faeb3fc9d0"
 
 [[files]]
 file = "resourcepacks/andos-pack.zip"
-hash = "d244090a2615c9e11ea2c536a26f9c4c348be3c5fca001448bd53e6b4efb3e0c"
+hash = "ce58e0ccbde42fb0a93422eaf5cf809b910034e6e868b80a97ab2cd8af69f73e"
 
 [[files]]
 file = "resourcepacks/pollocraft-panoramas.zip"
@@ -841,7 +841,7 @@ hash = "02f85b7f33878fea32bed74715a0ac58d3531825405d128e7b20a6b47832f018"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
-hash = "efab1dfe353ffc05c910c0ca421d4d1d019e12af322c450096ac3010813e7e3f"
+hash = "edd4c60dfa30f520b64a59c6859af3bccb24d84e87d15d0efdca0c918b0e1ee3"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

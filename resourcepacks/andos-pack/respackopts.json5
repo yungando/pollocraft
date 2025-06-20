@@ -8,7 +8,6 @@
   'conf': {
     'brewingStand3D': true,
     'pinnedTorches': true,
-    'darkerIronDoors': true,
     'spruceTrapDoorFix': true,
     'fireworkRocket3D': true,
     'adjustedLanternHold': true,
