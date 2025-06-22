@@ -274,6 +274,11 @@ hash = "e928ee356e23f343a53810269a9e59a30241320314bd0ab57e35caf7ab719f7d"
 metafile = true
 
 [[files]]
+file = "mods/attack-through-grass.pw.toml"
+hash = "b581a3199b9885fef41dcee2bcb0e2266c0dddaf6224687f776d96e191564a4d"
+metafile = true
+
+[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "80472ed95c490b2e5a828c769f30a1b4ed2b8c502ac2d0f577f1c838aaf7ec5e"
 metafile = true
@@ -486,11 +491,6 @@ metafile = true
 [[files]]
 file = "mods/glowing-torchflower.pw.toml"
 hash = "84648db007cf83ed8e75ce50b021d76101a2de7afe3d6c5bec744b2370e65de5"
-metafile = true
-
-[[files]]
-file = "mods/grasskiss.pw.toml"
-hash = "1acd511085ba25b450fea0cd671c8bdbfaf75f1f686dd8d10844d7bc5da72dc7"
 metafile = true
 
 [[files]]
