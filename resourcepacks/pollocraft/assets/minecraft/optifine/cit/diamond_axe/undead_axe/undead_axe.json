@@ -1,0 +1,38 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "./undead_axe"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [0, -90, 55],
+      "translation": [0, 4.5, 0.75],
+      "scale": [2, 2, 1]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [0, 90, -55],
+      "translation": [0, 4.5, 0.75],
+      "scale": [2, 2, 1]
+    },
+    "firstperson_righthand": {
+      "rotation": [0, -90, 25],
+      "scale": [1.4, 1.4, 0.7]
+    },
+    "firstperson_lefthand": {
+      "rotation": [0, -90, -70],
+      "scale": [1.4, 1.4, 0.7]
+    },
+    "ground": {
+      "translation": [0, 1.75, 0],
+      "scale": [1, 1, 0.5]
+    },
+    "fixed": {
+      "rotation": [0, 180, 0],
+      "scale": [4, 4, 2]
+    },
+    "gui": {
+      "translation": [-1, -1, 0],
+      "scale": [1.75, 1.75, 1]
+    }
+  }
+}

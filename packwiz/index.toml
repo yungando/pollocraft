@@ -241,7 +241,7 @@ hash = "082e80d2c39335995fb4cacfdbe7b0525be096b0e4c71698e0b09e60bf0affd4"
 
 [[files]]
 file = "mods/allow-portal-guis.pw.toml"
-hash = "91c9033f1dde044dedb31b0c576b2f62b0ce0339304c80e71f502c632d91a17e"
+hash = "d5aa03225664ef7e617fa6f82c6b747dec721ec2d336da4482d7e019494f2f10"
 metafile = true
 
 [[files]]
@@ -274,18 +274,13 @@ hash = "e928ee356e23f343a53810269a9e59a30241320314bd0ab57e35caf7ab719f7d"
 metafile = true
 
 [[files]]
-file = "mods/attack-through-grass.pw.toml"
-hash = "b581a3199b9885fef41dcee2bcb0e2266c0dddaf6224687f776d96e191564a4d"
-metafile = true
-
-[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "80472ed95c490b2e5a828c769f30a1b4ed2b8c502ac2d0f577f1c838aaf7ec5e"
 metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "b065522e317aa748182d8a549db134331c3dbb1486e78f4178e2a6d0299eac25"
+hash = "37a218f4aa85b545cc95b0a5c16d2da12c093c8a1a5a3bad60be72a4bf86a01a"
 metafile = true
 
 [[files]]
@@ -430,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "b58ef33547030c8f1a49bd15dc9c1c236648009614e126b0d3c36d2e37087d1d"
+hash = "184fa80125036eec344218f685108f0b8cf511d80dc5350f42070baad963ac27"
 metafile = true
 
 [[files]]
@@ -491,6 +486,11 @@ metafile = true
 [[files]]
 file = "mods/glowing-torchflower.pw.toml"
 hash = "84648db007cf83ed8e75ce50b021d76101a2de7afe3d6c5bec744b2370e65de5"
+metafile = true
+
+[[files]]
+file = "mods/grasskiss.pw.toml"
+hash = "1acd511085ba25b450fea0cd671c8bdbfaf75f1f686dd8d10844d7bc5da72dc7"
 metafile = true
 
 [[files]]
@@ -841,7 +841,7 @@ hash = "02f85b7f33878fea32bed74715a0ac58d3531825405d128e7b20a6b47832f018"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
-hash = "edd4c60dfa30f520b64a59c6859af3bccb24d84e87d15d0efdca0c918b0e1ee3"
+hash = "4c9f39db425c884d61548f3bbe9b73ea3ea1ca284fae22edf93c8172787c226e"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
