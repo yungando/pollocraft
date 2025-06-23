@@ -1,0 +1,15 @@
+name = "grasskiss"
+filename = "grasskiss-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/yungando/grasskiss/releases/download/1.0.0/grasskiss-1.0.0.jar"
+hash-format = "sha256"
+hash = "338949e47015c35d5911f3ff4aa89ea3d030572b066af722f8d470566c7fe03b"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "yungando/grasskiss"
+tag = "1.0.0"

@@ -274,11 +274,6 @@ hash = "e928ee356e23f343a53810269a9e59a30241320314bd0ab57e35caf7ab719f7d"
 metafile = true
 
 [[files]]
-file = "mods/attack-through-grass.pw.toml"
-hash = "b581a3199b9885fef41dcee2bcb0e2266c0dddaf6224687f776d96e191564a4d"
-metafile = true
-
-[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "80472ed95c490b2e5a828c769f30a1b4ed2b8c502ac2d0f577f1c838aaf7ec5e"
 metafile = true
@@ -494,6 +489,11 @@ hash = "84648db007cf83ed8e75ce50b021d76101a2de7afe3d6c5bec744b2370e65de5"
 metafile = true
 
 [[files]]
+file = "mods/grasskiss.pw.toml"
+hash = "c33bb89ca3a1e8fdea1a818a4aea9ca36286c1d416daca1f76d9b548785c947b"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "e6b1db1ab68060617a18d798dc6041533bf58044a078df62ae09fab803eb6e4b"
 metafile = true
@@ -554,7 +554,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "358a4ea31ab4385e7ae0b48888adf95b2362cbf5126dcda750063c557e3eb8b1"
+hash = "d9221689ffa47dcd27e6c0590ba7b3227f83d48a6e9592cd09e1835f143d793a"
 metafile = true
 
 [[files]]
@@ -569,7 +569,7 @@ metafile = true
 
 [[files]]
 file = "mods/minihud.pw.toml"
-hash = "6a79c7ffa7f5aa98ded0d31b132f9fbbced65e30dbfba24bbcbbbef00dcc4f35"
+hash = "0d85e3cfa3a0d0b99f650afd2301f95edf02b3eba6dd7679bf16eb3872331170"
 metafile = true
 
 [[files]]
@@ -744,7 +744,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "54c7a30857f7833394602eb02c2852c14624ffa121974084e09a2838f0a56541"
+hash = "dd6b8593c63f56146cae995ca8ce8a8f073eaa6869376acc7c2473920d38e3af"
 metafile = true
 
 [[files]]
@@ -804,7 +804,7 @@ metafile = true
 
 [[files]]
 file = "mods/wavey-capes.pw.toml"
-hash = "e8f55a1cdfc03e5f313a27db80e7427f28be997cb78224e666c8ea20a6693525"
+hash = "7bb5c83416782ca21043d416c81aa24a072a85ff766a5fded710ab57be410d3c"
 metafile = true
 
 [[files]]
@@ -841,7 +841,7 @@ hash = "02f85b7f33878fea32bed74715a0ac58d3531825405d128e7b20a6b47832f018"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
-hash = "4c9f39db425c884d61548f3bbe9b73ea3ea1ca284fae22edf93c8172787c226e"
+hash = "713b84bb44e364f0965be02faeb4e14210a9898a2ba105327dac38d38f13a834"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
