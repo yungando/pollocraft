@@ -5,10 +5,6 @@ file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "4e5cea9af004650e0d31a6b3abf9672e1a3c5870c934bb98f6f8cd4de567d11e"
 
 [[files]]
-file = "config/yosbr/config/PaginatedAdvancements.json5"
-hash = "120e3f861aa83945e524e7069604cd5c9ae11691c57abff04d7515b5d848a173"
-
-[[files]]
 file = "config/yosbr/config/armorchroma.json"
 hash = "34bfd1789b348ff2ea7170db650219c046d4cc58e379abf23db5c6d0a6f965d6"
 
@@ -199,8 +195,8 @@ file = "datapacks/hoglins_hate_overworld.zip"
 hash = "188d87cc031f62bce762bd1ca2548a5e9deb5a5ed93ccbffe173afc821d6927e"
 
 [[files]]
-file = "datapacks/instaslate-v1.0.0-datapack.zip"
-hash = "ab0e5bda8e8c6a35abe78e1a67533174bf98decaaeda47fef85d9753946b7f42"
+file = "datapacks/instamine.zip"
+hash = "7e7d07a326b1d338b330f7663fbd7af7aad0c57ff08fa1112ef6464008dc1d8f"
 
 [[files]]
 file = "datapacks/more effective tools v1.0.5 (MC 1.21-1.21.5).zip"
@@ -238,6 +234,11 @@ hash = "1ecdbc7d338544b5c5603e0ba37dfcef7b6ec8207695db55888f03650021fee4"
 [[files]]
 file = "datapacks/wandering trader announcements v1.0.4 (MC 1.21-1.21.5).zip"
 hash = "082e80d2c39335995fb4cacfdbe7b0525be096b0e4c71698e0b09e60bf0affd4"
+
+[[files]]
+file = "mods/alivent-messager.pw.toml"
+hash = "4b2a3b3a02e6322012cd76367273f8028bfda09b90f937e5e41c5e4b1452dd89"
+metafile = true
 
 [[files]]
 file = "mods/allow-portal-guis.pw.toml"
@@ -291,6 +292,11 @@ metafile = true
 [[files]]
 file = "mods/bedrockbreaker.pw.toml"
 hash = "856c8fe2079c5123a690e886a2b92afb2be39c1540b3359a1428d5cc6fbe5a83"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "a7a6a8396dd3842912b9483e6dfd0f39d165700e7eab470d4eab2244fc5d624e"
 metafile = true
 
 [[files]]
@@ -355,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/clickthrough+.pw.toml"
-hash = "9b25c4bada7de33888cae435a3c3e1969f5483a2d6c3ca81a824a629b55e1418"
+hash = "2cfaf0dcfad028db0e972f77946e71fd94376e8d70cba3d17d3abb484acf4ce8"
 metafile = true
 
 [[files]]
@@ -445,12 +451,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4cf5213ed785e4a642198c28844bf23327ed2fdbc300bdce00fcab21672864ff"
+hash = "c45656db928ed544c927449b5ceac0feef9488b0ea4154cab9199b37817cd4d5"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
+hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
 metafile = true
 
 [[files]]
@@ -490,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/grasskiss.pw.toml"
-hash = "c33bb89ca3a1e8fdea1a818a4aea9ca36286c1d416daca1f76d9b548785c947b"
+hash = "2db698bb400f62682a94b2973393bf21f7ea056be0620c251c027b6f3c42a2dc"
 metafile = true
 
 [[files]]
@@ -555,6 +561,11 @@ metafile = true
 [[files]]
 file = "mods/malilib.pw.toml"
 hash = "d9221689ffa47dcd27e6c0590ba7b3227f83d48a6e9592cd09e1835f143d793a"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "414c2909a26ebe54725b45866031806212d9c84bff0f1e052ad5f2e5a61d7d53"
 metafile = true
 
 [[files]]
@@ -639,7 +650,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "a6e3ca19c98f18fcf6e8a89587c0fb15df4a2147db9ae1f18d3d2b178fce10ac"
+hash = "bd2fdbeda78ffcc284d85061ff20c8e4abfce36b942b78d25b4ea08f52a4f64a"
 metafile = true
 
 [[files]]
@@ -650,11 +661,6 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "60a3d23eb73106ecb6ba5a391d4539e3557cbd9b1f3611a2de08052155d78b3a"
-metafile = true
-
-[[files]]
-file = "mods/paginatedadvancements.pw.toml"
-hash = "110132a70b524eaadb750bc110c9344d84432da97a5434ae185e815d778d21f0"
 metafile = true
 
 [[files]]
@@ -841,7 +847,7 @@ hash = "02f85b7f33878fea32bed74715a0ac58d3531825405d128e7b20a6b47832f018"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
-hash = "713b84bb44e364f0965be02faeb4e14210a9898a2ba105327dac38d38f13a834"
+hash = "6bd0a96b760b99dc2c16c3829ca57542e62a1b1ee66a067d51960be9e14e401d"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

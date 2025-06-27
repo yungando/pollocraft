@@ -1,6 +1,6 @@
 name = "grasskiss"
 filename = "grasskiss-1.0.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://github.com/yungando/grasskiss/releases/download/1.0.0/grasskiss-1.0.0.jar"

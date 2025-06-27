@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:reference",
+            "name": "instamine:apply_speed_boost"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "instamine:activate_boost"
+  }
+}
