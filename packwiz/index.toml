@@ -5,6 +5,10 @@ file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "4e5cea9af004650e0d31a6b3abf9672e1a3c5870c934bb98f6f8cd4de567d11e"
 
 [[files]]
+file = "config/yosbr/config/alivent-messenger.json"
+hash = "8a6d6d0c5750b84db4af8f31e447946dc01ed9d493cf5bf6bce94d8d9ac3c27d"
+
+[[files]]
 file = "config/yosbr/config/armorchroma.json"
 hash = "34bfd1789b348ff2ea7170db650219c046d4cc58e379abf23db5c6d0a6f965d6"
 
@@ -237,7 +241,7 @@ hash = "082e80d2c39335995fb4cacfdbe7b0525be096b0e4c71698e0b09e60bf0affd4"
 
 [[files]]
 file = "mods/alivent-messager.pw.toml"
-hash = "4b2a3b3a02e6322012cd76367273f8028bfda09b90f937e5e41c5e4b1452dd89"
+hash = "82fce1c2e42097396654773d5ddf55c1f9661792df7f673cdb69de79d3032c6a"
 metafile = true
 
 [[files]]
@@ -565,7 +569,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "414c2909a26ebe54725b45866031806212d9c84bff0f1e052ad5f2e5a61d7d53"
+hash = "a9ba51e0a21c374adf81782c7340c9eb3851012a0a9cef6fc962c918cb7b1429"
 metafile = true
 
 [[files]]

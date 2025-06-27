@@ -1,0 +1,9 @@
+{
+  "allMobMessages": false,
+  "playerKillMessages": false,
+  "villagerMessages": true,
+  "loreDrops": false,
+  "nameColour": false,
+  "speciesName": true,
+  "aliventMessageServerSpamRemover": false
+}
