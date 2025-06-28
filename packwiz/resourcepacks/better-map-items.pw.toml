@@ -1,0 +1,13 @@
+name = "Better Map Items"
+filename = "Better Map Items 1.20.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/EYdutVcx/versions/kRW4fduW/Better%20Map%20Items%201.20.zip"
+hash-format = "sha512"
+hash = "d7b2c4b14714d550561744331a25f8742d5e5f7f9862c2765766156df1309c94d60ae4fa2a4135278942fd26cb2c2a27daad3b2160788533979c50878f38bec1"
+
+[update]
+[update.modrinth]
+mod-id = "EYdutVcx"
+version = "kRW4fduW"

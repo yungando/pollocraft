@@ -13,10 +13,6 @@ file = "config/yosbr/config/armorchroma.json"
 hash = "34bfd1789b348ff2ea7170db650219c046d4cc58e379abf23db5c6d0a6f965d6"
 
 [[files]]
-file = "config/yosbr/config/betterstats.json"
-hash = "d9abdee21b346601050f6b441ffa9dbb199e4661133e56625488780ab5feb4de"
-
-[[files]]
 file = "config/yosbr/config/bobby.conf"
 hash = "5e07d0c2fdfbf2b4b178430ae4ace4993cf5075eff6a7fa1224ef3d146b189d3"
 
@@ -77,10 +73,6 @@ file = "config/yosbr/config/moreculling.toml"
 hash = "b9196e07b7b1a7239992b737b50ea35a337c87d1828a20d5f23300b18050f37c"
 
 [[files]]
-file = "config/yosbr/config/musicnotification.json"
-hash = "86e5b73637540bdb9c84ac47a673ffa35a9777cc8910a48c972209c64ea51f04"
-
-[[files]]
 file = "config/yosbr/config/particlerain.json5"
 hash = "2631c51a76193c0b61161db6c7d701fadf0f35e125a8c38fe4e21dfa56ad4466"
 
@@ -114,7 +106,7 @@ hash = "95e79a0b794251cbe064be66f80c9591aec5c436419536a761d08a48b009a6e5"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "9846244ba4bad374ee78d6a1afa88c048e303bfec79e090f37500332806b071d"
+hash = "cfe5460d08ebab84a31263ce06e1fbff81d123f57b22df8fd3e3630f80e0f209"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -145,10 +137,6 @@ hash = "2f6157705e4db015c36de9f697ae3c739d9063cb9c5fc9278a6c1fa7935266f3"
 file = "datapacks/blazeandcaves-advancements-pack.pw.toml"
 hash = "5c6a762d84b87b19b50e3e9ab89a0d0e446f7d915e9b1f7ee40379a90826e929"
 metafile = true
-
-[[files]]
-file = "datapacks/bundle_backport.zip"
-hash = "9d8d203dd837baa5fe5057c1be1061af4c0ea73136b870d501f6211c682da413"
 
 [[files]]
 file = "datapacks/clifftree.pw.toml"
@@ -190,8 +178,14 @@ file = "datapacks/graves v4.0.0 (MC 1.21-1.21.5).zip"
 hash = "631a7d90986e456edea89482c1940678040e8a25f0916a27985538234fc64528"
 
 [[files]]
-file = "datapacks/hoglins_hate_overworld.zip"
-hash = "188d87cc031f62bce762bd1ca2548a5e9deb5a5ed93ccbffe173afc821d6927e"
+file = "datapacks/ibo.pw.toml"
+hash = "6a502eee7a952d1b7c59ea6b757b2741f0ee64c9c695f9c0f96f24bcd1e414c5"
+metafile = true
+
+[[files]]
+file = "datapacks/incendium.pw.toml"
+hash = "3b9148316d33630109898d716ac10f99716d8e3b6ae5359289a4153bd1e63fce"
+metafile = true
 
 [[files]]
 file = "datapacks/instamine.zip"
@@ -225,10 +219,6 @@ hash = "4cbd45e40dada09396ea34754b97685e6179cda7f33254b77b2e851be4e08b77"
 [[files]]
 file = "datapacks/pollocraft_paintings.zip"
 hash = "c20b4a7138dc09fa83051f86c47b8cef6dcb845ac476b0469c2aaaf3186225b8"
-
-[[files]]
-file = "datapacks/unlock all recipes v2.0.12 (MC 1.21-1.21.5).zip"
-hash = "1ecdbc7d338544b5c5603e0ba37dfcef7b6ec8207695db55888f03650021fee4"
 
 [[files]]
 file = "datapacks/wandering trader announcements v1.0.4 (MC 1.21-1.21.5).zip"
@@ -341,11 +331,6 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "812c45e6d4bb3e7fda349dc1562222b7df1933033665476d11b95e5d65a87a87"
-metafile = true
-
-[[files]]
-file = "mods/cit-resewn.pw.toml"
-hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
 metafile = true
 
 [[files]]
@@ -788,6 +773,11 @@ hash = "afa11e18f77f14a5fd1d5d8dfc3006389911c344866b55db2b785454179b58ed"
 metafile = true
 
 [[files]]
+file = "mods/variants-cit.pw.toml"
+hash = "cd686e00e366b0761823ec9570af33e12d379dab2645191520bbcc63f2f2f0fd"
+metafile = true
+
+[[files]]
 file = "mods/vistas.pw.toml"
 hash = "20da2b78b2f86710f0f72a1e7863787d6a6060d7014efb13e45f7c99ef7b0d33"
 metafile = true
@@ -826,12 +816,27 @@ file = "resourcepacks/andos-pack.zip"
 hash = "ce58e0ccbde42fb0a93422eaf5cf809b910034e6e868b80a97ab2cd8af69f73e"
 
 [[files]]
+file = "resourcepacks/better-keys.pw.toml"
+hash = "4b9c0524dc1a7b264fd4e2e3534ad91d16e1b543422fb94832cd51cc2bd879ca"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-map-items.pw.toml"
+hash = "a50cde015296e3be5ffd09340750e5d40aea1a55a6bc167fa12ccfa996605aea"
+metafile = true
+
+[[files]]
 file = "resourcepacks/pollocraft-panoramas.zip"
 hash = "02f85b7f33878fea32bed74715a0ac58d3531825405d128e7b20a6b47832f018"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
 hash = "6bd0a96b760b99dc2c16c3829ca57542e62a1b1ee66a067d51960be9e14e401d"
+
+[[files]]
+file = "resourcepacks/xaeros-vanilla-gui.pw.toml"
+hash = "2b9ac64da3d5dd5d91709b1ba3477a9bb062b675f8b37001d421135bba7ed737"
+metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
