@@ -13,10 +13,6 @@ file = "config/yosbr/config/armorchroma.json"
 hash = "34bfd1789b348ff2ea7170db650219c046d4cc58e379abf23db5c6d0a6f965d6"
 
 [[files]]
-file = "config/yosbr/config/betterstats.json"
-hash = "d9abdee21b346601050f6b441ffa9dbb199e4661133e56625488780ab5feb4de"
-
-[[files]]
 file = "config/yosbr/config/bobby.conf"
 hash = "5e07d0c2fdfbf2b4b178430ae4ace4993cf5075eff6a7fa1224ef3d146b189d3"
 
@@ -77,10 +73,6 @@ file = "config/yosbr/config/moreculling.toml"
 hash = "b9196e07b7b1a7239992b737b50ea35a337c87d1828a20d5f23300b18050f37c"
 
 [[files]]
-file = "config/yosbr/config/musicnotification.json"
-hash = "86e5b73637540bdb9c84ac47a673ffa35a9777cc8910a48c972209c64ea51f04"
-
-[[files]]
 file = "config/yosbr/config/particlerain.json5"
 hash = "2631c51a76193c0b61161db6c7d701fadf0f35e125a8c38fe4e21dfa56ad4466"
 
@@ -114,7 +106,7 @@ hash = "95e79a0b794251cbe064be66f80c9591aec5c436419536a761d08a48b009a6e5"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "9846244ba4bad374ee78d6a1afa88c048e303bfec79e090f37500332806b071d"
+hash = "cfe5460d08ebab84a31263ce06e1fbff81d123f57b22df8fd3e3630f80e0f209"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -127,16 +119,6 @@ hash = "12fdcfed806647aa982866c10c8f2a209f3726ef0382e5f5215e112c901c4652"
 [[files]]
 file = "datapacks/CraftingTweaks.zip"
 hash = "442124e51b7e378623715505a308d4c0e2f68c1dcaf9d2a7e36632cb88280891"
-
-[[files]]
-file = "datapacks/amplified-nether-height.pw.toml"
-hash = "8b6598937e1128ba8c4c310203124fa292918e72d46f371a9e284692cab625d8"
-metafile = true
-
-[[files]]
-file = "datapacks/amplified-nether.pw.toml"
-hash = "cb9fa56569aa93cde5246b00e92a80e379faccb0d7cd721c9fe2ca4345454be3"
-metafile = true
 
 [[files]]
 file = "datapacks/anti-ender-dragon-grief.pw.toml"
@@ -157,8 +139,9 @@ hash = "5c6a762d84b87b19b50e3e9ab89a0d0e446f7d915e9b1f7ee40379a90826e929"
 metafile = true
 
 [[files]]
-file = "datapacks/bundle_backport.zip"
-hash = "9d8d203dd837baa5fe5057c1be1061af4c0ea73136b870d501f6211c682da413"
+file = "datapacks/clifftree.pw.toml"
+hash = "dd724dd2bad7ff35ec53f523b5d7f04d8d5a89e5812cfcc8e323ab1c41c03c3a"
+metafile = true
 
 [[files]]
 file = "datapacks/confetti creepers v2.2.12 (MC 1.21-1.21.5).zip"
@@ -195,10 +178,6 @@ file = "datapacks/graves v4.0.0 (MC 1.21-1.21.5).zip"
 hash = "631a7d90986e456edea89482c1940678040e8a25f0916a27985538234fc64528"
 
 [[files]]
-file = "datapacks/hoglins_hate_overworld.zip"
-hash = "188d87cc031f62bce762bd1ca2548a5e9deb5a5ed93ccbffe173afc821d6927e"
-
-[[files]]
 file = "datapacks/instamine.zip"
 hash = "7e7d07a326b1d338b330f7663fbd7af7aad0c57ff08fa1112ef6464008dc1d8f"
 
@@ -230,10 +209,6 @@ hash = "4cbd45e40dada09396ea34754b97685e6179cda7f33254b77b2e851be4e08b77"
 [[files]]
 file = "datapacks/pollocraft_paintings.zip"
 hash = "c20b4a7138dc09fa83051f86c47b8cef6dcb845ac476b0469c2aaaf3186225b8"
-
-[[files]]
-file = "datapacks/unlock all recipes v2.0.12 (MC 1.21-1.21.5).zip"
-hash = "1ecdbc7d338544b5c5603e0ba37dfcef7b6ec8207695db55888f03650021fee4"
 
 [[files]]
 file = "datapacks/wandering trader announcements v1.0.4 (MC 1.21-1.21.5).zip"
@@ -314,18 +289,8 @@ hash = "7c45c50ac2431db0dd3697e16a180a55ac0f2a753540b0bd310eb593b8b0bd0a"
 metafile = true
 
 [[files]]
-file = "mods/better-stats.pw.toml"
-hash = "7b87ea6e0623ada323e65fa0420e0827f6e88689898a0454376e460ad8cbc5dc"
-metafile = true
-
-[[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "dd18db1413980ef467ac2e86c7e5f3cef26d366119f43121204a442583e7c0bd"
-metafile = true
-
-[[files]]
-file = "mods/betterbubbles.pw.toml"
-hash = "67f451558f40165f9e978d78910922635065c86ebc8afc4c734d3b43aca66d94"
 metafile = true
 
 [[files]]
@@ -625,11 +590,6 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "6be43ffc708ac329843aee99ededc692ecf6461ee8e409d373f55fc5494db5af"
-metafile = true
-
-[[files]]
-file = "mods/music-notification.pw.toml"
-hash = "55123772d444c9b76f6dfe15942a022f42ba8f2885b7d2df42ffc50c84d1dc3b"
 metafile = true
 
 [[files]]

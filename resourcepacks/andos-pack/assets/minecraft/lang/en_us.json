@@ -27,13 +27,11 @@
   "rpo.andospack.tridentSprite.tooltip": "Replaces trident textures and entity more aligned with the 2D sprite.",
   "rpo.andospack.andosite": "andosite",
   "rpo.andospack.andosite.tooltip": "Replaces andesite and polishes andesite textures with andosite and polished andosite.",
-  "rpo.andospack.backportClouds": "Backport Clouds",
-  "rpo.andospack.backportClouds.tooltip": "Backports the new cloud texture from 1.21.6.",
   "rpo.andospack.goldenCarrotHungerBar": "Golden Carrot Hunger Bar",
   "rpo.andospack.goldenCarrotHungerBar.tooltip": "Replaces the hunger bar icons with golden carrots.",
   "rpo.andospack.maceAccurate3D": "Accurate 3D Mace",
   "rpo.andospack.maceAccurate3D.tooltip": "Makes the Mace accurate to the heavy core and breeze rod items.",
-  "rpo.andospack.vanillaBubblesPop": "Vanilla Bubble Pop Sound",
-  "rpo.andospack.vanillaBubblesPop.tooltip": "Uses the >1.21.2 sound for air bubbles popping, instead of the modded one.",
-  "seamless_loading_screen.keybind.config": "Open Seamless Loading Screen config"
+  "seamless_loading_screen.keybind.config": "Open Seamless Loading Screen config",
+  "key.randomblockplacement.toggle": "Toggle Random Block Placement",
+  "key.no_stripping.toggle": "Toggle log stripping"
 }

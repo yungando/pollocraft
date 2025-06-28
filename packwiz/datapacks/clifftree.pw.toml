@@ -1,0 +1,13 @@
+name = "Cliff under a Tree (CliffTree)"
+filename = "CliffTree_2.0.1_[1.21-1.21.4].zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/59ypHk8x/versions/Od9gkvEi/CliffTree_2.0.1_%5B1.21-1.21.4%5D.zip"
+hash-format = "sha512"
+hash = "21731b56e0a62869a8ec6fa3fd1e69c295c5c734d20d6d3939a265a527d5c39414a6769588c9de17f9c8b5f6c39a915fb1ab903e84525aae8809444d762495e6"
+
+[update]
+[update.modrinth]
+mod-id = "59ypHk8x"
+version = "Od9gkvEi"

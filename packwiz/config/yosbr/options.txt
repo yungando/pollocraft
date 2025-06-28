@@ -39,10 +39,8 @@ key_gui.xaero_open_settings:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.unknown
 key_key.lighty.enable:key.keyboard.unknown
 key_key.lighty.toggle:key.keyboard.f7
-key_key.musicnotification.open_screen:key.keyboard.unknown
 key_key.raised.options:key.keyboard.unknown
 key_key.minecraftcapes.gui:key.keyboard.unknown
-key_betterstats.key_binding.toggle_hud_screen:key.keyboard.unknown
 key_key.vistas.panoramic_screenshot:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 soundCategory_music:0.5
