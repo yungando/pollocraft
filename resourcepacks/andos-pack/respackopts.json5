@@ -19,10 +19,8 @@
     'arrowSprites': true,
     'arrowSpritesWeapons': true,
     'tridentSprite': true,
-    'andosite': false,
-    'backportClouds': true,
+    'andosite': false
     'goldenCarrotHungerBar': true,
-    'maceAccurate3D': true,
-    'vanillaBubblesPop': true
+    'maceAccurate3D': true
   }
 }

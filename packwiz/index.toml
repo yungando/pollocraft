@@ -129,16 +129,6 @@ file = "datapacks/CraftingTweaks.zip"
 hash = "442124e51b7e378623715505a308d4c0e2f68c1dcaf9d2a7e36632cb88280891"
 
 [[files]]
-file = "datapacks/amplified-nether-height.pw.toml"
-hash = "8b6598937e1128ba8c4c310203124fa292918e72d46f371a9e284692cab625d8"
-metafile = true
-
-[[files]]
-file = "datapacks/amplified-nether.pw.toml"
-hash = "cb9fa56569aa93cde5246b00e92a80e379faccb0d7cd721c9fe2ca4345454be3"
-metafile = true
-
-[[files]]
 file = "datapacks/anti-ender-dragon-grief.pw.toml"
 hash = "1ba3d910645c03947b7928a1d2734274b88a8806a399f34b0533e6b0153eb319"
 metafile = true
@@ -159,6 +149,11 @@ metafile = true
 [[files]]
 file = "datapacks/bundle_backport.zip"
 hash = "9d8d203dd837baa5fe5057c1be1061af4c0ea73136b870d501f6211c682da413"
+
+[[files]]
+file = "datapacks/clifftree.pw.toml"
+hash = "dd724dd2bad7ff35ec53f523b5d7f04d8d5a89e5812cfcc8e323ab1c41c03c3a"
+metafile = true
 
 [[files]]
 file = "datapacks/confetti creepers v2.2.12 (MC 1.21-1.21.5).zip"
@@ -314,18 +309,8 @@ hash = "7c45c50ac2431db0dd3697e16a180a55ac0f2a753540b0bd310eb593b8b0bd0a"
 metafile = true
 
 [[files]]
-file = "mods/better-stats.pw.toml"
-hash = "7b87ea6e0623ada323e65fa0420e0827f6e88689898a0454376e460ad8cbc5dc"
-metafile = true
-
-[[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "dd18db1413980ef467ac2e86c7e5f3cef26d366119f43121204a442583e7c0bd"
-metafile = true
-
-[[files]]
-file = "mods/betterbubbles.pw.toml"
-hash = "67f451558f40165f9e978d78910922635065c86ebc8afc4c734d3b43aca66d94"
 metafile = true
 
 [[files]]
@@ -625,11 +610,6 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "6be43ffc708ac329843aee99ededc692ecf6461ee8e409d373f55fc5494db5af"
-metafile = true
-
-[[files]]
-file = "mods/music-notification.pw.toml"
-hash = "55123772d444c9b76f6dfe15942a022f42ba8f2885b7d2df42ffc50c84d1dc3b"
 metafile = true
 
 [[files]]
