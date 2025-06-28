@@ -35,7 +35,5 @@
   "rpo.andospack.maceAccurate3D.tooltip": "Makes the Mace accurate to the heavy core and breeze rod items.",
   "rpo.andospack.vanillaBubblesPop": "Vanilla Bubble Pop Sound",
   "rpo.andospack.vanillaBubblesPop.tooltip": "Uses the >1.21.2 sound for air bubbles popping, instead of the modded one.",
-  "seamless_loading_screen.keybind.config": "Open Seamless Loading Screen config",
-  "key.randomblockplacement.toggle": "Toggle Random Block Placement",
-  "key.no_stripping.toggle": "Toggle log stripping"
+  "seamless_loading_screen.keybind.config": "Open Seamless Loading Screen config"
 }
