@@ -1,0 +1,13 @@
+name = "Xaero's Vanilla GUI"
+filename = "Xaero's Vanilla GUI.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JZpWpo9L/versions/DndLe3Qi/Xaero%27s%20Vanilla%20GUI.zip"
+hash-format = "sha512"
+hash = "4d33ee9f2843575ab9ae506d206113940fd838e7eb1075d14b8e5e4856057c8449d54c88db64e8ecc0d4763ee8edb1e6b04c6a0e8d0c124c5006d932ab0b750b"
+
+[update]
+[update.modrinth]
+mod-id = "JZpWpo9L"
+version = "DndLe3Qi"

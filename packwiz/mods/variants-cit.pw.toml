@@ -1,0 +1,13 @@
+name = "Variants-CIT"
+filename = "variants-cit-2.12.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jURjbCaq/versions/TDEvTEsC/variants-cit-2.12.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "ea0bfa45c748009b1c27879f38a054bd029bb32ca8d3c33f1087cd06bd8c259fd1ef486596fb20b0242cc64f0daf0f65ce943a5e9ca7e071988a6a4b8f8e2529"
+
+[update]
+[update.modrinth]
+mod-id = "jURjbCaq"
+version = "TDEvTEsC"

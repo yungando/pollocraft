@@ -16,8 +16,6 @@
   "rpo.andospack.reducedEnchantmentGlint": "Reduced Enchantment Glint Intensity.",
   "rpo.andospack.connectedCutSandstone": "Connected Sandstone",
   "rpo.andospack.connectedCutSandstone.tooltip": "Connects cut sandstone and red sandstone using the Continuity mod.",
-  "rpo.andospack.vanillaXaerosWorldMapGUI": "Vanilla World Map Icons",
-  "rpo.andospack.vanillaXaerosWorldMapGUI.tooltip": "Replaces the world map icons with more vanilla-friendly textures.",
   "rpo.andospack.minimalWorldBorder": "Minimal World Border",
   "rpo.andospack.arrowSprites": "Arrow Sprites",
   "rpo.andospack.arrowSprites.tooltip": "Replaces the 3D arrow projectile entity with the 2D sprite.",

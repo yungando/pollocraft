@@ -324,11 +324,6 @@ hash = "812c45e6d4bb3e7fda349dc1562222b7df1933033665476d11b95e5d65a87a87"
 metafile = true
 
 [[files]]
-file = "mods/cit-resewn.pw.toml"
-hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
-metafile = true
-
-[[files]]
 file = "mods/clickthrough+.pw.toml"
 hash = "2cfaf0dcfad028db0e972f77946e71fd94376e8d70cba3d17d3abb484acf4ce8"
 metafile = true
@@ -768,6 +763,11 @@ hash = "afa11e18f77f14a5fd1d5d8dfc3006389911c344866b55db2b785454179b58ed"
 metafile = true
 
 [[files]]
+file = "mods/variants-cit.pw.toml"
+hash = "cd686e00e366b0761823ec9570af33e12d379dab2645191520bbcc63f2f2f0fd"
+metafile = true
+
+[[files]]
 file = "mods/vistas.pw.toml"
 hash = "20da2b78b2f86710f0f72a1e7863787d6a6060d7014efb13e45f7c99ef7b0d33"
 metafile = true
@@ -806,12 +806,27 @@ file = "resourcepacks/andos-pack.zip"
 hash = "ce58e0ccbde42fb0a93422eaf5cf809b910034e6e868b80a97ab2cd8af69f73e"
 
 [[files]]
+file = "resourcepacks/better-keys.pw.toml"
+hash = "4b9c0524dc1a7b264fd4e2e3534ad91d16e1b543422fb94832cd51cc2bd879ca"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-map-items.pw.toml"
+hash = "a50cde015296e3be5ffd09340750e5d40aea1a55a6bc167fa12ccfa996605aea"
+metafile = true
+
+[[files]]
 file = "resourcepacks/pollocraft-panoramas.zip"
 hash = "02f85b7f33878fea32bed74715a0ac58d3531825405d128e7b20a6b47832f018"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
 hash = "3cbe1974893075f662dc70f5fc6250d09a2178832ebd14bda5ccb9319fca5ca2"
+
+[[files]]
+file = "resourcepacks/xaeros-vanilla-gui.pw.toml"
+hash = "2b9ac64da3d5dd5d91709b1ba3477a9bb062b675f8b37001d421135bba7ed737"
+metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
