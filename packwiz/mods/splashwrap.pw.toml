@@ -1,13 +1,13 @@
 name = "splashwrap"
-filename = "splashwrap-1.0.1.jar"
+filename = "splashwrap-1.0.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Fh2MrR1k/versions/1SHnCQ7N/splashwrap-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/Fh2MrR1k/versions/wDuXMnwZ/splashwrap-1.0.3.jar"
 hash-format = "sha512"
-hash = "199110d81c4c047dc92a8266ba58636b07d11af5697dbad29e4a3f63697eab478f97255c44f7296f149732b8a78bc9c0b042a6d346bb8d9f929928d819a63a97"
+hash = "ce818cbc249c16fcb69086440de311bbe0881b5def50f85acd7288adcc474920a6c15c778f8ad6379561a22eef0e7f82c3d84a3899549ce25714916f8a26e2a3"
 
 [update]
 [update.modrinth]
 mod-id = "Fh2MrR1k"
-version = "1SHnCQ7N"
+version = "wDuXMnwZ"

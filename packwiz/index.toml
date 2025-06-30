@@ -774,7 +774,7 @@ metafile = true
 
 [[files]]
 file = "mods/splashwrap.pw.toml"
-hash = "f08be7523ca88eca9623ddcb348cc1883407e00df6c753b7f8fc5aaa3822712b"
+hash = "d5a37c1a5e5030369a8ffd8edfd142f303c7f20b1fa4e060ab3d7973c1a28f97"
 metafile = true
 
 [[files]]
@@ -851,7 +851,7 @@ hash = "02f85b7f33878fea32bed74715a0ac58d3531825405d128e7b20a6b47832f018"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
-hash = "6bd0a96b760b99dc2c16c3829ca57542e62a1b1ee66a067d51960be9e14e401d"
+hash = "e69a0146c95117416bbaeb2b5c32a851e5cc43461a3c8fbc6f4b456bc2185d59"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
