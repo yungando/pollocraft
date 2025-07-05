@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/allow-portal-guis.pw.toml"
-hash = "d5aa03225664ef7e617fa6f82c6b747dec721ec2d336da4482d7e019494f2f10"
+hash = "5649da3e5ab9132cbc7b82c39d14b4658016e9690d492e34787ac464577fc745"
 metafile = true
 
 [[files]]
@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-f1-reborn.pw.toml"
-hash = "f161789f674eef361553d75291e13d837db80b1a64800ec483465ca670c47150"
+hash = "5c3eaf036c6725c2a0be6507f73217571eda0d71744796e104799ca83ab60616"
 metafile = true
 
 [[files]]
@@ -604,7 +604,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "1584444b7f16488634393b73c6cd7ab5247338beb9d5eda623b32db64adc3871"
+hash = "605e4295a1ac4a1c4b3345370e596d4e8ee40dd22ab5ebf699f594dd247e7b94"
 metafile = true
 
 [[files]]
@@ -789,7 +789,7 @@ metafile = true
 
 [[files]]
 file = "mods/strippingtoggle.pw.toml"
-hash = "d6a1ea27d5470800ecb73420eb8ade3633a3e36b879771852a300bce2d7606cd"
+hash = "5c2f1d53cf3cbcf93f4dd2f63a577865131080383d6476851268004fec285ffb"
 metafile = true
 
 [[files]]
@@ -851,7 +851,7 @@ hash = "02f85b7f33878fea32bed74715a0ac58d3531825405d128e7b20a6b47832f018"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
-hash = "e69a0146c95117416bbaeb2b5c32a851e5cc43461a3c8fbc6f4b456bc2185d59"
+hash = "4bf3a9c1bc759f025c87b5b9a4e42b3283cc12daff148d2488d85a2edef01f4b"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
