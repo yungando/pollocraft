@@ -384,6 +384,11 @@ hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "60cbb0f3f3ac58c190df26cfdc3cb412e8b6509d6221960483b58a8ed890f0a9"
+metafile = true
+
+[[files]]
 file = "mods/custom-window-title.pw.toml"
 hash = "09d3121e0f62df0f7543ec669a7d2465ccc257f8ece46eaa37c0d8597ec36c15"
 metafile = true
@@ -810,6 +815,16 @@ metafile = true
 [[files]]
 file = "mods/vistas.pw.toml"
 hash = "20da2b78b2f86710f0f72a1e7863787d6a6060d7014efb13e45f7c99ef7b0d33"
+metafile = true
+
+[[files]]
+file = "mods/waterframes.pw.toml"
+hash = "f9784e7aeea303cdf355b7b3dfd86fecc74266ecaa52a4b5a48c6213ea12883f"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "db448883024c3b6fa903231dafc93055881a9f5114708e53ea9883af8e2b1888"
 metafile = true
 
 [[files]]
