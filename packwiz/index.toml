@@ -839,6 +839,11 @@ hash = "2b9ac64da3d5dd5d91709b1ba3477a9bb062b675f8b37001d421135bba7ed737"
 metafile = true
 
 [[files]]
+file = "resourcepacks/xaeros-vanilla-gui.pw.toml"
+hash = "2b9ac64da3d5dd5d91709b1ba3477a9bb062b675f8b37001d421135bba7ed737"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "3385e33cb8e2cbf402562dcb68669cc2905fec01b4be9fe27a516010c5aaff87"
 metafile = true
