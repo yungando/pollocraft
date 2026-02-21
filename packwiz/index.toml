@@ -178,6 +178,16 @@ file = "datapacks/graves v4.0.0 (MC 1.21-1.21.5).zip"
 hash = "631a7d90986e456edea89482c1940678040e8a25f0916a27985538234fc64528"
 
 [[files]]
+file = "datapacks/ibo.pw.toml"
+hash = "6a502eee7a952d1b7c59ea6b757b2741f0ee64c9c695f9c0f96f24bcd1e414c5"
+metafile = true
+
+[[files]]
+file = "datapacks/incendium.pw.toml"
+hash = "3b9148316d33630109898d716ac10f99716d8e3b6ae5359289a4153bd1e63fce"
+metafile = true
+
+[[files]]
 file = "datapacks/instamine.zip"
 hash = "7e7d07a326b1d338b330f7663fbd7af7aad0c57ff08fa1112ef6464008dc1d8f"
 
@@ -222,11 +232,6 @@ metafile = true
 [[files]]
 file = "mods/allow-portal-guis.pw.toml"
 hash = "5649da3e5ab9132cbc7b82c39d14b4658016e9690d492e34787ac464577fc745"
-metafile = true
-
-[[files]]
-file = "mods/animatica.pw.toml"
-hash = "ff31791271197f8122fb52893e7e67d86ba038dd0e77e57227ef84de8f7e069e"
 metafile = true
 
 [[files]]
@@ -585,6 +590,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "6be43ffc708ac329843aee99ededc692ecf6461ee8e409d373f55fc5494db5af"
+metafile = true
+
+[[files]]
+file = "mods/moremcmeta.pw.toml"
+hash = "d3e7fa80ec843d25687ef3028cef6e3eb73cdb96a43cc18ef697ff9b30e8ca96"
 metafile = true
 
 [[files]]

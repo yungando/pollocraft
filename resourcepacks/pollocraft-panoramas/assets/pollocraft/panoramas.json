@@ -38,5 +38,33 @@
         "cubemapId": "pollocraft:panoramas/schlatttower/panorama"
       }
     ]
+  },
+  "spawn5": {
+    "weight": 1,
+    "cubemaps": [
+      {
+        "cubemapId": "pollocraft:panoramas/spawn5/panorama"
+      }
+    ]
+  },
+  "ironkey5": {
+    "weight": 1,
+    "cubemaps": [
+      {
+        "cubemapId": "pollocraft:panoramas/ironkey5/panorama"
+      }
+    ]
+  },
+  "famine": {
+    "weight": 1,
+    "cubemaps": [
+      {
+        "cubemapId": "pollocraft:panoramas/famine/panorama",
+        "rotationControl": {
+          "frozen": true,
+          "addedYaw": -40.0
+        }
+      }
+    ]
   }
 }

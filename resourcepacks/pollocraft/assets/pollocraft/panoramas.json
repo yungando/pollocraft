@@ -1,0 +1,14 @@
+{
+  "famine": {
+    "weight": 1,
+    "cubemaps": [
+      {
+        "cubemapId": "pollocraft:panoramas/famine/panorama",
+        "rotationControl": {
+          "frozen": true,
+          "addedYaw": -40.0
+        }
+      }
+    ]
+  }
+}
