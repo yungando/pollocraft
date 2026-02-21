@@ -1,0 +1,13 @@
+name = "Consistent Shift"
+filename = "ConsistentShift-1.0.1+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LZoWbd8P/versions/dspBJk8K/ConsistentShift-1.0.1%2B1.21.jar"
+hash-format = "sha512"
+hash = "88cfa82c3e305ce1169bd9ccb85c10bca73475be73d446a23e18459b980df3b56f11665cac4dfd82688815a5c323fd6c0e58f4f146f3a53e7595f4679f25298f"
+
+[update]
+[update.modrinth]
+mod-id = "LZoWbd8P"
+version = "dspBJk8K"

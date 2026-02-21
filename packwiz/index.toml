@@ -344,6 +344,11 @@ hash = "b4116f0253eebdbb08281dac7e5bb7583d874f031dae6fef7e2154898f1d68bc"
 metafile = true
 
 [[files]]
+file = "mods/consistent-shift.pw.toml"
+hash = "f259baf15f0083c8a10fe1b63489f64b35cd12a65c2429c438950983f3560a16"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
 metafile = true
@@ -603,6 +608,11 @@ hash = "f3c5cb21ff2e78c7e8cdbd14d1535e6edd464d5a436dbfa4e60b8ea91374674d"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+hash = "467eadd218b315067bd37e3af44d7719f77045cd6d3059bbf89e2ee7ce6b8e4f"
+metafile = true
+
+[[files]]
 file = "mods/no-resource-pack-warnings.pw.toml"
 hash = "da9ac20bdc1caa50ebec291429638780924e8a5060ec39abe085c7e6182b3a6f"
 metafile = true
@@ -813,7 +823,7 @@ hash = "bbe8789afa278ca7ca4225992b2d23497f42ea67793c6c1cee8fa6faeb3fc9d0"
 
 [[files]]
 file = "resourcepacks/andos-pack.zip"
-hash = "ce58e0ccbde42fb0a93422eaf5cf809b910034e6e868b80a97ab2cd8af69f73e"
+hash = "fc4b6daed95aafe38f1a58c7ed009241214587f5cb4a5cb8e2dfd99c30bfb9de"
 
 [[files]]
 file = "resourcepacks/better-keys.pw.toml"
@@ -827,16 +837,11 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/pollocraft-panoramas.zip"
-hash = "02f85b7f33878fea32bed74715a0ac58d3531825405d128e7b20a6b47832f018"
+hash = "97a9fe70d004f50417f5da209f04cdb85886bdc0ae6168fb7728c7d41d0f7146"
 
 [[files]]
 file = "resourcepacks/pollocraft.zip"
-hash = "3cbe1974893075f662dc70f5fc6250d09a2178832ebd14bda5ccb9319fca5ca2"
-
-[[files]]
-file = "resourcepacks/xaeros-vanilla-gui.pw.toml"
-hash = "2b9ac64da3d5dd5d91709b1ba3477a9bb062b675f8b37001d421135bba7ed737"
-metafile = true
+hash = "005c418ad843758f97152ac128387d66451dc155a2a4b1e5cb7d60169054c7a5"
 
 [[files]]
 file = "resourcepacks/xaeros-vanilla-gui.pw.toml"
