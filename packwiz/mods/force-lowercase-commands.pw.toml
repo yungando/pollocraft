@@ -8,6 +8,7 @@ hash-format = "sha512"
 hash = "b23a6f39408afcbb3603a6dfd283e3d90387f28b8b6b7956131c27b8e322abeafb0206d10a8aff25df7cd2dddaad840f0f7e52daf492b51b5b57733d8c64fce3"
 
 [update]
+
 [update.modrinth]
 mod-id = "CwxVUnPT"
 version = "cpecBNt8"

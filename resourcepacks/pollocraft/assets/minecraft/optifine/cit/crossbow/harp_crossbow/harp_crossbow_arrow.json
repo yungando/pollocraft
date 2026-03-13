@@ -1,6 +1,6 @@
 {
   "parent": "./harp_crossbow",
   "textures": {
-      "layer0": "./harp_crossbow_arrow"
+    "layer0": "./harp_crossbow_arrow"
   }
 }

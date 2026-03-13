@@ -1,25 +1,25 @@
 {
-  'id': "andospack",
-  'version': 13,
-  'capabilities': [
-    'FileFilter',
-    'DirFilter'
+  "id": "andospack",
+  "version": 13,
+  "capabilities": [
+    "FileFilter",
+    "DirFilter"
   ],
-  'conf': {
-    'brewingStand3D': true,
-    'pinnedTorches': true,
-    'spruceTrapDoorFix': true,
-    'fireworkRocket3D': true,
-    'adjustedLanternHold': true,
-    'mannequinArmourStand': true,
-    'reducedEnchantmentGlint': true,
-    'connectedCutSandstone': true,
-    'minimalWorldBorder': true,
-    'arrowSprites': true,
-    'arrowSpritesWeapons': true,
-    'tridentSprite': true,
-    'andosite': false
-    'goldenCarrotHungerBar': true,
-    'maceAccurate3D': true
+  "conf": {
+    "brewingStand3D": true,
+    "pinnedTorches": true,
+    "spruceTrapDoorFix": true,
+    "fireworkRocket3D": true,
+    "adjustedLanternHold": true,
+    "mannequinArmourStand": true,
+    "reducedEnchantmentGlint": true,
+    "connectedCutSandstone": true,
+    "minimalWorldBorder": true,
+    "arrowSprites": true,
+    "arrowSpritesWeapons": true,
+    "tridentSprite": true,
+    "andosite": false,
+    "goldenCarrotHungerBar": true,
+    "maceAccurate3D": true
   }
 }

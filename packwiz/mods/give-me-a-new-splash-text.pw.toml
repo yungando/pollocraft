@@ -8,6 +8,7 @@ hash-format = "sha512"
 hash = "4f8f0eef968e1b600c33d4297298aa7583fcbcee57b03ee7860b16e1def9c2f9356c0283c05824e902b075e5bd5a719dd1683d725b01576911bedc8cdb27f000"
 
 [update]
+
 [update.modrinth]
 mod-id = "9tsqKbBI"
 version = "BXFBtrus"

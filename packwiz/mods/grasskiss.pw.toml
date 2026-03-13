@@ -8,6 +8,7 @@ hash-format = "sha256"
 hash = "338949e47015c35d5911f3ff4aa89ea3d030572b066af722f8d470566c7fe03b"
 
 [update]
+
 [update.github]
 branch = "main"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"

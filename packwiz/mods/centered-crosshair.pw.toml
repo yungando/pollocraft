@@ -8,6 +8,7 @@ hash-format = "sha512"
 hash = "106f39b42c00b957199450cdf8b176cba70c6e945cd6356e53c27dfa26ab174ae29fc38a7f846de7ad1e30f6267fefd37c351f16f566155070dc2bee96c3e9ca"
 
 [update]
+
 [update.modrinth]
 mod-id = "xUTHly0N"
 version = "Orfi1Sh5"

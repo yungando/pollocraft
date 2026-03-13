@@ -1,5 +1,6 @@
 # pollocraft
 _gsdata_
+eslint.config.js
 
 # Exclude exported Modrinth modpacks
 *.mrpack

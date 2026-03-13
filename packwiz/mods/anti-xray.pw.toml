@@ -8,6 +8,7 @@ hash-format = "sha512"
 hash = "1b8548052cc7df877054b6d624fa0b6279559912b4e019d386524417f16413bfbceb66e070ee5923593807932120e79e583cc06e4793b4083917cb55e34ac7f8"
 
 [update]
+
 [update.modrinth]
 mod-id = "sml2FMaA"
 version = "9Fb0twuI"

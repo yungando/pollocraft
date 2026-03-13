@@ -8,6 +8,7 @@ hash-format = "sha256"
 hash = "5283a850312d7d5a50464c0416823ff39ae658c5b0603dab2f86e261d6253368"
 
 [update]
+
 [update.github]
 branch = "1.20-fabric"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
